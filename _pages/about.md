@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am doing a research internship at Huawei now in Guangdong1, China.
+I am doing a research internship at Huawei now in Guangdong, China.
 
 I am now working on entity alignment, time series anomaly detection, Multi-modal Learning, and LLM application.
 
@@ -69,9 +69,11 @@ I have published more than 100 papers at the top international AI conferences wi
 - *2022.09 - 2025.06 (now)*, Master, Beijing University of Posts and Telecommunications. 
 - *2018.09 - 2022.06*, Undergraduate, Beijing University of Posts and Telecommunications. 
 
+<!--
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+-->
 
 # 💻 Internships
 - *2023.11 - now*, Huawei, 2012 Lab, China.
