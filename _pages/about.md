@@ -17,21 +17,27 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am doing a research internship at Huawei now in Guangdong1, China.
 
-My research interest includes graph mining, time series, LLM, and multi modal learning. 
+I am now working on entity alignment, time series anomaly detection, Multi-modal Learning, and LLM application.
+
+I graduated from College of Science, Beijing University of Posts and Telecommunications with a bachelor’s degree. I am finishing my Computer Technology Master degree in the School of Computer Science, Beijing University of Posts and Telecommunications and will get the degree in June, 2025, advised by Haifen Sun and Jingyu Wang.
+
+My research interest includes Graph Mining, Time Series, and Multi-modal Learning. 
 
 <!--
 I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
 
-
+<!--
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+-->
 
 # 📝 Publications 
 
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -43,16 +49,25 @@ I have published more than 100 papers at the top international AI conferences wi
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
+-->
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Towards semantic consistency: Dirichlet energy driven robust multi-modal entity alignment](https://arxiv.org/pdf/2401.17859), Yuanyi Wang, Haifeng Sun, Jiabo Wang, et al. IEEE International Conference on Data Engineering, **ICDE 2024**
+- [Interdependency Matters: Graph Alignment for Multivariate Time Series Anomaly Detection](https://arxiv.org/pdf/2410.08877), Yuanyi Wang, Haifeng Sun, Chengsen Wang, et al. IEEE International Conference on Data Mining, **ICDM 2024**
+- [Multi-modal Entity Alignment via Position-enhanced Multi-label Propagation](https://dl.acm.org/doi/10.1145/3652583.3658085), Wei Tang, Yuanyi Wang. International Conference on Multimedia Retrieval, **ICMR 2024, Best Paper Candidate**
+- [LogExpert: Log-based Recommended Resolutions Generation using Large Language Model](https://dl.acm.org/doi/abs/10.1145/3639476.3639773), Jiabo Wang, Guojun Chu, Jingyu Wang, Haifeng Sun, Qi Qi, Yuanyi Wang, et al. International Conference on Software Engineering, **ICSE 2024**
+- [Understanding and Guiding Weakly Supervised Entity Alignment with Potential Isomorphism Propagation](https://arxiv.org/pdf/2402.03025), Yuanyi Wang, Wei Tang, Haifeng Sun, et al. preprint, arXiv.
+- [Gradient Flow of Energy: A General and Efficient Approach for Entity Alignment Decoding](https://arxiv.org/pdf/2401.12798), Yuanyi Wang, Haifeng Sun, Jingyu Wang, et al. preprint, arXiv.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.10* National Scholarship (Top 1%)
+- *2022.09* Outstanding Graduate of Beijing (Top 5%)
+- *2021.09* National Encouragement Scholarship (Undergraduate) (Top 5%)
+- *2020.09* National Encouragement Scholarship (Undergraduate) (Top 5%)
+- *2019.09* National Encouragement Scholarship (Undergraduate) (Top 5%)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - 2025.06 (now)*, Master, Beijing University of Posts and Telecommunications. 
+- *2018.09 - 2022.06*, Undergraduate, Beijing University of Posts and Telecommunications. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
