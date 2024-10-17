@@ -21,7 +21,7 @@ I am doing a research internship at Huawei now in Guangdong, China.
 
 I am now working on entity alignment, time series anomaly detection, Multi-modal Learning, and LLM application.
 
-I graduated from College of Science, Beijing University of Posts and Telecommunications with a bachelor’s degree. I am finishing my Computer Technology Master degree in the School of Computer Science, Beijing University of Posts and Telecommunications and will get the degree in June, 2025, advised by Haifen Sun and Jingyu Wang.
+I graduated from College of Science, Beijing University of Posts and Telecommunications with a bachelor’s degree. I will get my Computer Technology Master degree in the School of Computer Science, Beijing University of Posts and Telecommunications in June, 2025, advised by [Haifen Sun](https://scholar.google.com/citations?user=dwhbTsEAAAAJ&hl) and [Jingyu Wang](https://teacher.bupt.edu.cn/wangjingyu/zh_CN/index.htm).
 
 My research interest includes Graph Mining, Time Series, and Multi-modal Learning. 
 
@@ -51,12 +51,19 @@ I have published more than 100 papers at the top international AI conferences wi
 </div>
 -->
 
-- [Towards semantic consistency: Dirichlet energy driven robust multi-modal entity alignment](https://arxiv.org/pdf/2401.17859), Yuanyi Wang, Haifeng Sun, Jiabo Wang, et al. IEEE International Conference on Data Engineering, **ICDE 2024**
-- [Interdependency Matters: Graph Alignment for Multivariate Time Series Anomaly Detection](https://arxiv.org/pdf/2410.08877), Yuanyi Wang, Haifeng Sun, Chengsen Wang, et al. IEEE International Conference on Data Mining, **ICDM 2024**
-- [Multi-modal Entity Alignment via Position-enhanced Multi-label Propagation](https://dl.acm.org/doi/10.1145/3652583.3658085), Wei Tang, Yuanyi Wang. International Conference on Multimedia Retrieval, **ICMR 2024, Best Paper Candidate**
-- [LogExpert: Log-based Recommended Resolutions Generation using Large Language Model](https://dl.acm.org/doi/abs/10.1145/3639476.3639773), Jiabo Wang, Guojun Chu, Jingyu Wang, Haifeng Sun, Qi Qi, Yuanyi Wang, et al. International Conference on Software Engineering, **ICSE 2024**
-- [Understanding and Guiding Weakly Supervised Entity Alignment with Potential Isomorphism Propagation](https://arxiv.org/pdf/2402.03025), Yuanyi Wang, Wei Tang, Haifeng Sun, et al. preprint, arXiv.
-- [Gradient Flow of Energy: A General and Efficient Approach for Entity Alignment Decoding](https://arxiv.org/pdf/2401.12798), Yuanyi Wang, Haifeng Sun, Jingyu Wang, et al. preprint, arXiv.
+- [Towards semantic consistency: Dirichlet energy driven robust multi-modal entity alignment](https://arxiv.org/pdf/2401.17859), **Yuanyi Wang**, Haifeng Sun, Jiabo Wang, et al. IEEE International Conference on Data Engineering, **ICDE 2024**
+- [Interdependency Matters: Graph Alignment for Multivariate Time Series Anomaly Detection](https://arxiv.org/pdf/2410.08877), **Yuanyi Wang**, Haifeng Sun, Chengsen Wang, et al. IEEE International Conference on Data Mining, **ICDM 2024**
+- [Multi-modal Entity Alignment via Position-enhanced Multi-label Propagation](https://dl.acm.org/doi/10.1145/3652583.3658085), Wei Tang, **Yuanyi Wang**. International Conference on Multimedia Retrieval, **ICMR 2024, Best Paper Candidate**
+- [LogExpert: Log-based Recommended Resolutions Generation using Large Language Model](https://dl.acm.org/doi/abs/10.1145/3639476.3639773), Jiabo Wang, Guojun Chu, Jingyu Wang, Haifeng Sun, Qi Qi, **Yuanyi Wang**, et al. International Conference on Software Engineering, **ICSE 2024**
+- [Understanding and Guiding Weakly Supervised Entity Alignment with Potential Isomorphism Propagation](https://arxiv.org/pdf/2402.03025), **Yuanyi Wang**, Wei Tang, Haifeng Sun, et al. ArXiv preprint.
+- [Gradient Flow of Energy: A General and Efficient Approach for Entity Alignment Decoding](https://arxiv.org/pdf/2401.12798), **Yuanyi Wang**, Haifeng Sun, Jingyu Wang, et al. Preprint, ArXiv preprint.
+
+# 🔬 Research Experience
+
+#### AI-assisted Automatic Construction of Device Parameter Database
+- **Objective:** Automaticaly parsing computation device manuals, extracting the device parameters, constructing the parameter database.
+- **Solution:**
+
 
 # 🎖 Honors and Awards
 - *2024.10* National Scholarship (Top 1%)
