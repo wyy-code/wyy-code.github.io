@@ -51,7 +51,7 @@ I have published more than 100 papers at the top international AI conferences wi
 </div>
 -->
 
-- [Towards semantic consistency: Dirichlet energy driven robust multi-modal entity alignment](https://arxiv.org/pdf/2401.17859), **Yuanyi Wang**, Haifeng Sun, Jiabo Wang, et al. IEEE International Conference on Data Engineering, **ICDE 2024**
+- [![ICDE](https://img.shields.io/badge/ICDE%202024-blue)][Towards semantic consistency: Dirichlet energy driven robust multi-modal entity alignment](https://arxiv.org/pdf/2401.17859), **Yuanyi Wang**, Haifeng Sun, Jiabo Wang, et al. IEEE International Conference on Data Engineering
 - [Interdependency Matters: Graph Alignment for Multivariate Time Series Anomaly Detection](https://arxiv.org/pdf/2410.08877), **Yuanyi Wang**, Haifeng Sun, Chengsen Wang, et al. IEEE International Conference on Data Mining, **ICDM 2024**
 - [Multi-modal Entity Alignment via Position-enhanced Multi-label Propagation](https://dl.acm.org/doi/10.1145/3652583.3658085), Wei Tang, **Yuanyi Wang**. International Conference on Multimedia Retrieval, **ICMR 2024, Best Paper Candidate**
 - [LogExpert: Log-based Recommended Resolutions Generation using Large Language Model](https://dl.acm.org/doi/abs/10.1145/3639476.3639773), Jiabo Wang, Guojun Chu, Jingyu Wang, Haifeng Sun, Qi Qi, **Yuanyi Wang**, et al. International Conference on Software Engineering, **ICSE 2024**
