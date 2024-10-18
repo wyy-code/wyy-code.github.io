@@ -73,7 +73,7 @@ I have published more than 100 papers at the top international AI conferences wi
 #### Real-time Time-series Anomaly Detection and Location
 - *2012 Lab, Huawei, Guangdong, China*
 - **Objective:** Fast anomaly detection for multivariate time series data, Automatically analyzing oscillogram
-- **Solution:** A novel framework for multivariate time series anomaly detection, Lightweight object segmentation, detection, and indicator analysis for oscillogram analysis
+- **Solution:** A novel framework for multivariate time series anomaly detection, Lightweight object segmentation, detection, and indicator analysis for oscillogram
 
 
 # 🎖 Honors and Awards
