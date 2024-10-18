@@ -67,8 +67,8 @@ I have published more than 100 papers at the top international AI conferences wi
 
 #### Automatic Anomalous Logs Resolution Recommendation
 - *BUPT & China Mobile (Suzhou) Software Technology Co., Ltd, Beijing, China*
-- **Objective:** Automatically parsing anomalous logs, generating recommended resolutions
-- **Solution:** Log parsing and summarization from technical forums, Constructing structural log-based database, LLM for generating resolutions for anomalous logs with RAG
+- **Objective:** Automatically parsing anomalous logs, generating recommended resolutions for anomalous logs
+- **Solution:** Log parsing and summarization, Constructing log-based structural database, LLM for generating resolutions with RAG
 
 #### Real-time Time-series Anomaly Detection and Location
 - *2012 Lab, Huawei, Guangdong, China*
