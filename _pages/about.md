@@ -62,7 +62,7 @@ I have published more than 100 papers at the top international AI conferences wi
 
 #### AI-assisted Automatic Construction of Device Parameter Database
 - *2012 Lab, Huawei, Guangdong, China*
-- **Objective:** Automaticaly parsing computation device manuals, extracting the device parameters, constructing the parameter database
+- **Objective:** Automatically parsing computation device manuals, extracting the device parameters, constructing the parameter database
 - **Solution:** Pre-training for document layout analysis, Unified tabular structure recognition, LLM for text understanding
 
 #### Automatic Anomalous Logs Resolution Recommendation
