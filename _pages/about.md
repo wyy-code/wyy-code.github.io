@@ -21,7 +21,7 @@ I am doing a research internship at Huawei now in Guangdong, China.
 
 I am now working on entity alignment, time series anomaly detection, Multi-modal Learning, and LLM application.
 
-I graduated from College of Science, Beijing University of Posts and Telecommunications (BUPT) with a bachelor’s degree. I will get my Computer Technology Master degree in the State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications in June, 2025, advised by [Haifen Sun](https://scholar.google.com/citations?user=dwhbTsEAAAAJ&hl) and [Jingyu Wang](https://teacher.bupt.edu.cn/wangjingyu/zh_CN/index.htm).
+I graduated from the College of Science, Beijing University of Posts and Telecommunications (BUPT) with a bachelor’s degree. I will get my Computer Technology Master's degree in the State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications in June 2025, advised by [Haifen Sun](https://scholar.google.com/citations?user=dwhbTsEAAAAJ&hl) and [Jingyu Wang](https://teacher.bupt.edu.cn/wangjingyu/zh_CN/index.htm).
 
 My research interest includes Graph Mining, Time Series, and Multi-modal Learning. 
 
@@ -70,7 +70,7 @@ I have published more than 100 papers at the top international AI conferences wi
 - **Objective:** Automatically parsing anomalous logs, generating recommended resolutions for anomalous logs
 - **Solution:** Log parsing and summarization, Constructing log-based structural database, LLM for generating resolutions with RAG
 
-#### Real-time Time-series Anomaly Detection and Location
+#### Real-time Time-series Anomaly Detection and Location for ATE
 - *2012 Lab, Huawei, Guangdong, China*
 - **Objective:** Fast anomaly detection for multivariate time series data, Automatically analyzing oscillogram
 - **Solution:** A novel framework for multivariate time series anomaly detection, Lightweight object segmentation, detection, and indicator analysis for oscillogram
