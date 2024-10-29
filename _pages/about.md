@@ -32,6 +32,7 @@ I have published more than 100 papers at the top international AI conferences wi
 # 🔥 News
 - **Looking for a PhD position in 2025 Fall in Europe!**
 - *2024.05*: &nbsp;🎉🎉 Our paper about "Multi-modal Entity Alignment" was selected as Best Paper Candidate in ICMR 2024.
+
 <!--
 - *2024.09*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
