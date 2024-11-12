@@ -90,7 +90,7 @@ I have published more than 100 papers at the top international AI conferences wi
 
 
 # 💬 Invited Talks
-- *2024.11*, AI-assisted Automatic Waveform Anomaly Detection, Jiaxian Community, Huawei internal talk. 
+- *2024.11*, AI-assisted Waveform Anomaly Detection, Jiaxian Community, Huawei internal talk. 
 
 
 # 💻 Internships
