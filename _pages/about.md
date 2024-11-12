@@ -88,11 +88,10 @@ I have published more than 100 papers at the top international AI conferences wi
 - *2018.09 - 2022.06*, Undergraduate, Beijing University of Posts and Telecommunications, Beijing.
 - *2015.09 - 2018.06*, Xi'an Tie Yi High School, Shaanxi.
 
-<!--
+
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
--->
+- *2024.11*, AI-assisted Automatic Waveform Anomaly Detection, Jiaxian Community, Huawei internal talk. 
+
 
 # 💻 Internships
 - *2023.11 - now*, Huawei, 2012 Lab, China.
