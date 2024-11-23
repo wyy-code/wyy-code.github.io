@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am doing a research internship at Huawei now in Guangdong, China.
+I am doing a research internship at Huawei now, advised by [Yulong Cai](https://www.linkedin.com/in/%E7%8E%89%E9%BE%99-%E8%94%A1-33523b1b3/?originalSubdomain=cn), in Guangdong, China.
 
-I am now working on entity alignment for knowledge graph, time series anomaly detection, and LLM application.
+I am now working on entity alignment for knowledge graphs, time series anomaly detection, and LLM application.
 
 I graduated from the College of Science, Beijing University of Posts and Telecommunications (BUPT) with a bachelor’s degree. I will get my Computer Technology Master's degree in the State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications in June 2025, advised by [Haifen Sun](https://scholar.google.com/citations?user=dwhbTsEAAAAJ&hl) and [Jingyu Wang](https://teacher.bupt.edu.cn/wangjingyu/zh_CN/index.htm).
 
-My research interest includes Knowledge Graph, Time Series, Multi-modal Learning, and LLM. 
+My research interests include Knowledge Graphs, Time Series, Multi-modal Learning, and LLM. 
 
 <!--
 I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
