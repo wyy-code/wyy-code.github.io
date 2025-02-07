@@ -58,6 +58,7 @@ I have published more than 100 papers at the top international AI conferences wi
 - ![Static Badge](https://img.shields.io/badge/arXiv-red) [Understanding and Guiding Weakly Supervised Entity Alignment with Potential Isomorphism Propagation](https://arxiv.org/pdf/2402.03025), **Yuanyi Wang**, Wei Tang, Haifeng Sun, et al. ArXiv preprint.
 
 
+<!--
 # 🔬 Research Experience
 
 #### AI-assisted Automatic Construction of Device Parameter Database
@@ -74,6 +75,7 @@ I have published more than 100 papers at the top international AI conferences wi
 - *2012 Lab, Huawei, Guangdong, China*
 - **Objective:** Fast anomaly detection for multivariate time series data, Automatically analyzing oscillogram
 - **Solution:** A novel framework for multivariate time series anomaly detection, Lightweight object segmentation, detection, and indicator analysis for oscillogram
+-->
 
 
 # 🎖 Honors and Awards
