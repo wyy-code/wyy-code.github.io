@@ -17,11 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am doing a research internship at Huawei now, advised by [Yulong Cai](https://www.linkedin.com/in/%E7%8E%89%E9%BE%99-%E8%94%A1-33523b1b3/?originalSubdomain=cn), in Guangdong, China.
-
-I am now working on entity alignment for knowledge graphs, time series anomaly detection, and LLM application.
-
-I graduated from the College of Science, Beijing University of Posts and Telecommunications (BUPT) with a bachelor’s degree. I will get my Computer Technology Master's degree in the State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications in June 2025, advised by [Haifen Sun](https://scholar.google.com/citations?user=dwhbTsEAAAAJ&hl) and [Jingyu Wang](https://teacher.bupt.edu.cn/wangjingyu/zh_CN/index.htm).
+I graduated from the College of Science, Beijing University of Posts and Telecommunications (BUPT) with a bachelor’s degree. I will get my Computer Technology Master's degree in the State Key Laboratory of Networking and Switching Technology, BUPT, in June 2025, where I am conducting research under the guidance of [Jianxin Liao](https://baike.baidu.com/item/%E5%BB%96%E5%BB%BA%E6%96%B0/8469604). I am also co-supervised by [Yulong Cai](https://www.linkedin.com/in/%E7%8E%89%E9%BE%99-%E8%94%A1-33523b1b3/?originalSubdomain=cn), in Huawei`s 2012 Lab.
 
 My research interests include Knowledge Graphs, Time Series, Multi-modal Learning, and LLM. 
 
