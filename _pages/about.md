@@ -96,4 +96,4 @@ I have published more than 100 papers at the top international AI conferences wi
 
 
 # 💻 Internships
-- *2023.11 - now*, Huawei, 2012 Lab, China.
+- *2023.11 - 2025.1*, Huawei, 2012 Lab, China.
