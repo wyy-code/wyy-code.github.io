@@ -79,12 +79,11 @@ I have published more than 100 papers at the top international AI conferences wi
 
 
 # 🎖 Honors and Awards
-- *2024.10* National Scholarship (Top 1%)
+- *2024.11* National Scholarship (Top 1%)
 - *2024.10* Outstanding Postgraduate (Top 5%)
 - *2022.09* Outstanding Graduate (Top 5%)
-- *2021.09* National Encouragement Scholarship (Undergraduate) (Top 5%)
-- *2020.09* National Encouragement Scholarship (Undergraduate) (Top 5%)
-- *2019.09* National Encouragement Scholarship (Undergraduate) (Top 5%)
+- *2021.12* Star of Youth Studies (10 students in BUPT each year)
+- *2019.09 ~ 2021.09* National Encouragement Scholarship, Three times(Top 5%)
 
 # 📖 Educations
 - *2022.09 - 2025.06 (now)*, Master, Beijing University of Posts and Telecommunications, Beijing. 
