@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I graduated from the College of Science, Beijing University of Posts and Telecommunications (BUPT) with a bachelor’s degree. I will get my Computer Technology Master's degree in the State Key Laboratory of Networking and Switching Technology, BUPT, in Prof. [Jianxin Liao](https://baike.baidu.com/item/%E5%BB%96%E5%BB%BA%E6%96%B0/8469604)'s group. I am also co-supervised by [Haifeng Sun](https://scholar.google.com/citations?user=dwhbTsEAAAAJ&hl=zh-CN&authuser=1) (BUPT) and [Yulong Cai](https://www.linkedin.com/in/%E7%8E%89%E9%BE%99-%E8%94%A1-33523b1b3/?originalSubdomain=cn) (Huawei`s 2012 Lab).
+I graduated from the College of Science, Beijing University of Posts and Telecommunications (BUPT) with a bachelor’s degree. I will get my Computer Technology Master's degree in the State Key Laboratory of Networking and Switching Technology, BUPT, in Prof. [Jianxin Liao](https://baike.baidu.com/item/%E5%BB%96%E5%BB%BA%E6%96%B0/8469604)'s group. I worked closely with Prof. Haifeng Sun (BUPT), Prof. Jingyu Wang (BUPT), Dr. Wei Tang (Huawei`s 2012 Lab), and Dr. Yulong Cai (Huawei`s 2012 Lab).
 
-My research interests include Knowledge Graphs, Time Series, Multi-modal Learning, and LLM. 
+My research interests include Knowledge Graphs, Multi-modal Learning, and LLM. 
 
 <!--
 I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
