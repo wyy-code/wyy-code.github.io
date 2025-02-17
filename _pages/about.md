@@ -82,7 +82,7 @@ I have published more than 100 papers at the top international AI conferences wi
 - *2019.09 ~ 2021.09* National Encouragement Scholarship, Three times(Top 5%)
 
 # 📖 Educations
-- *2022.09 - 2025.06 (expect)*, Master, State Key Laboratory of Networking and Switching Technology, BUPT, Beijing. 
+- *2022.09 - 2025.06 (expect)*, Postgraduate, State Key Laboratory of Networking and Switching Technology, BUPT, Beijing. 
 - *2018.09 - 2022.06*, Undergraduate, Beijing University of Posts and Telecommunications (BUPT), Beijing.
 - *2015.09 - 2018.06*, Xi'an Tie Yi High School, Shaanxi.
 
