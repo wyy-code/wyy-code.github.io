@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I graduated from the College of Science, Beijing University of Posts and Telecommunications (BUPT) with a bachelor’s degree. I will get my Computer Technology Master's degree in the State Key Laboratory of Networking and Switching Technology, BUPT, in Prof. [Jianxin Liao](https://baike.baidu.com/item/%E5%BB%96%E5%BB%BA%E6%96%B0/8469604)'s group. I worked closely with Prof. Haifeng Sun (BUPT), Prof. Jingyu Wang (BUPT), Dr. Wei Tang (Huawei), and Dr. Yulong Cai (Huawei).
+I graduated with my B.S. from the College of Science, Beijing University of Posts and Telecommunications (BUPT). Then I was recommended to the State Key Laboratory of Networking and Switching Technology at BUPT, where I am completing my M.S. in Prof. [Jianxin Liao](https://baike.baidu.com/item/%E5%BB%96%E5%BB%BA%E6%96%B0/8469604)'s group. I was honored to work closely with Prof. Haifeng Sun (BUPT), Prof. Jingyu Wang (BUPT), Dr. Wei Tang (Huawei), and Dr. Yulong Cai (Huawei).
 
 My research interests include Knowledge Graphs, Multi-modal Learning, and LLM. 
 
