@@ -101,3 +101,5 @@ The Wechat official account of BUPT, with more than 11,000 visits.
 The Wechat official account of the Graduate College for Engineers, BUPT, with more than 1,000 visits
 - [2020-2021学年北京邮电大学 “青学之星”评选候选人介绍第一弹](https://mp.weixin.qq.com/s/XUarXNwU8Hq31W65nEm_ew)<br>
 The Wechat official account of the Student Affairs Office, BUPT, with more than 2,000 visits
+- [榜样在身边·“校十佳青学之星”获得者——王源毅](https://mp.weixin.qq.com/s/JG6i1HwPSD--Xgmn9vrOgQ)<br>
+The Wechat official account of the College of Science, BUPT
