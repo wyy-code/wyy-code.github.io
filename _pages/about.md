@@ -97,9 +97,9 @@ I have published more than 100 papers at the top international AI conferences wi
 # 📟 Reports
 - [《他们，是闪闪发光的北邮人！》](https://mp.weixin.qq.com/s/-HP2uHssKdjbumYHcZyEMA)<br>
 The Wechat official account of BUPT, with more than 11,000 visits.
-- [卓越风采录||学子说 ② 王源毅：科研实践齐头并进](https://mp.weixin.qq.com/s/jP7twFA9oUHcyJekh_SbHg)<br>
+- [《卓越风采录||学子说·王源毅：科研实践齐头并进》](https://mp.weixin.qq.com/s/jP7twFA9oUHcyJekh_SbHg)<br>
 The Wechat official account of the Graduate College for Engineers, BUPT, with more than 1,000 visits
-- [2020-2021学年北京邮电大学 “青学之星”评选候选人介绍第一弹](https://mp.weixin.qq.com/s/XUarXNwU8Hq31W65nEm_ew)<br>
+- [《2020-2021学年北京邮电大学 “青学之星”评选候选人介绍第一弹》](https://mp.weixin.qq.com/s/XUarXNwU8Hq31W65nEm_ew)<br>
 The Wechat official account of the Student Affairs Office, BUPT, with more than 2,000 visits
-- [榜样在身边·“校十佳青学之星”获得者——王源毅](https://mp.weixin.qq.com/s/JG6i1HwPSD--Xgmn9vrOgQ)<br>
+- [《榜样在身边·“校十佳青学之星”获得者——王源毅》](https://mp.weixin.qq.com/s/JG6i1HwPSD--Xgmn9vrOgQ)<br>
 The Wechat official account of the College of Science, BUPT
