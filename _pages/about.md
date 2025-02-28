@@ -89,7 +89,7 @@ I have published more than 100 papers at the top international AI conferences wi
 
 # 💬 Invited Talks
 - *2024.11*, AI-assisted Waveform Anomaly Detection, Huawei internal talk, Shenzhen.
-- *2024.10*, AI-assist Automatic Testing Equipments, Graduate College for Engineers, BUPT
+- *2024.10*, AI-assisted Automatic Testing Equipments, Graduate College for Engineers, BUPT
 
 
 # 💻 Internships
