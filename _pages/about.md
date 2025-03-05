@@ -47,21 +47,22 @@ I have published more than 100 papers at the top international AI conferences wi
 -->
 
 - ![Static Badge](https://img.shields.io/badge/NAACL%202025-blue) [Rethinking Smoothness for Fast and Adaptable Entity Alignment Decoding](https://arxiv.org/pdf/2401.12798)<br>
-**Yuanyi Wang**, Han Li, Haifeng Sun, Lei Zhang, Bo He, Wei Tang, Tianhao Yan, Qi Qi, Jingyu Wang.
-*2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics*. [Code](https://github.com/wyy-code/TFP)
+**Yuanyi Wang**, Han Li, Haifeng Sun, Lei Zhang, Bo He, Wei Tang, Tianhao Yan, Qi Qi, Jingyu Wang.<br>
+*2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics*. [**Code**](https://github.com/wyy-code/TFP)
 - ![Static Badge](https://img.shields.io/badge/ICDE%202024-blue) [Towards semantic consistency: Dirichlet energy driven robust multi-modal entity alignment](https://arxiv.org/pdf/2401.17859)<br>
-**Yuanyi Wang**, Haifeng Sun, Jiabo Wang, Jingyu Wang, Wei Tang, Qi Qi, Shaoling Sun, Jianxin Liao. 
-*IEEE International Conference on Data Engineering*. [Code](https://github.com/wyy-code/DESAlign)
+**Yuanyi Wang**, Haifeng Sun, Jiabo Wang, Jingyu Wang, Wei Tang, Qi Qi, Shaoling Sun, Jianxin Liao. <br>
+*IEEE International Conference on Data Engineering*. [**Code**](https://github.com/wyy-code/DESAlign)
 - ![Static Badge](https://img.shields.io/badge/ICDM%202024-blue) [Interdependency Matters: Graph Alignment for Multivariate Time Series Anomaly Detection](https://arxiv.org/pdf/2410.08877)<br>
-**Yuanyi Wang**, Haifeng Sun, Chengsen Wang, Mengde Zhu, Jingyu Wang, Wei Tang, Qi Qi, Zirui Zhuang, Jianxin Liao.
-*IEEE International Conference on Data Mining*. [Code](https://github.com/wyy-code/MADGA)
+**Yuanyi Wang**, Haifeng Sun, Chengsen Wang, Mengde Zhu, Jingyu Wang, Wei Tang, Qi Qi, Zirui Zhuang, Jianxin Liao.<br>
+*IEEE International Conference on Data Mining*. [**Code**](https://github.com/wyy-code/MADGA)
 - ![Static Badge](https://img.shields.io/badge/ICMR%202024-Best%20Paper%20Candidate-blue) [Multi-modal Entity Alignment via Position-enhanced Multi-label Propagation](https://dl.acm.org/doi/10.1145/3652583.3658085)<br>
-Wei Tang, **Yuanyi Wang**. *International Conference on Multimedia Retrieval*. [Code](https://github.com/OceanTangWei/PMMEA)
+Wei Tang, **Yuanyi Wang**. *International Conference on Multimedia Retrieval*. [**Code**](https://github.com/OceanTangWei/PMMEA)
 - ![Static Badge](https://img.shields.io/badge/ICSE%202024-blue) [LogExpert: Log-based Recommended Resolutions Generation using Large Language Model](https://dl.acm.org/doi/abs/10.1145/3639476.3639773)<br>
-Jiabo Wang, Guojun Chu, Jingyu Wang, Haifeng Sun, Qi Qi, **Yuanyi Wang**, Ji Qi, Jianxin Liao.
+Jiabo Wang, Guojun Chu, Jingyu Wang, Haifeng Sun, Qi Qi, **Yuanyi Wang**, Ji Qi, Jianxin Liao.<br>
 *International Conference on Software Engineering*
 - ![Static Badge](https://img.shields.io/badge/arXiv-red) [Understanding and Guiding Weakly Supervised Entity Alignment with Potential Isomorphism Propagation](https://arxiv.org/pdf/2402.03025)<br>
-**Yuanyi Wang**, Wei Tang, Haifeng Sun, et al. ArXiv preprint. [Code](https://github.com/wyy-code/PipEA)
+**Yuanyi Wang**, Wei Tang, Haifeng Sun, et al.<br>
+ArXiv preprint. [**Code**](https://github.com/wyy-code/PipEA)
 
 
 <!--
