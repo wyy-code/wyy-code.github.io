@@ -56,7 +56,8 @@ I have published more than 100 papers at the top international AI conferences wi
 **Yuanyi Wang**, Haifeng Sun, Chengsen Wang, Mengde Zhu, Jingyu Wang, Wei Tang, Qi Qi, Zirui Zhuang, Jianxin Liao.<br>
 *IEEE International Conference on Data Mining*. [**Code**](https://github.com/wyy-code/MADGA)
 - ![Static Badge](https://img.shields.io/badge/ICMR%202024-Best%20Paper%20Candidate-blue) [Multi-modal Entity Alignment via Position-enhanced Multi-label Propagation](https://dl.acm.org/doi/10.1145/3652583.3658085)<br>
-Wei Tang, **Yuanyi Wang**. *International Conference on Multimedia Retrieval*. [**Code**](https://github.com/OceanTangWei/PMMEA)
+Wei Tang, **Yuanyi Wang**.<br>
+*International Conference on Multimedia Retrieval*. [**Code**](https://github.com/OceanTangWei/PMMEA)
 - ![Static Badge](https://img.shields.io/badge/ICSE%202024-blue) [LogExpert: Log-based Recommended Resolutions Generation using Large Language Model](https://dl.acm.org/doi/abs/10.1145/3639476.3639773)<br>
 Jiabo Wang, Guojun Chu, Jingyu Wang, Haifeng Sun, Qi Qi, **Yuanyi Wang**, Ji Qi, Jianxin Liao.<br>
 *International Conference on Software Engineering*
