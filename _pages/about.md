@@ -57,10 +57,10 @@ I have published more than 100 papers at the top international AI conferences wi
 *IEEE International Conference on Data Mining*
 - ![Static Badge](https://img.shields.io/badge/ICMR%202024-Best%20Paper%20Candidate-blue) [Multi-modal Entity Alignment via Position-enhanced Multi-label Propagation](https://dl.acm.org/doi/10.1145/3652583.3658085)  | [**Code**](https://github.com/OceanTangWei/PMMEA)<br>
 Wei Tang, **Yuanyi Wang**<br>
-*International Conference on Multimedia Retrieval*
+*Proceedings of the 2024 International Conference on Multimedia Retrieval*
 - ![Static Badge](https://img.shields.io/badge/ICSE%202024-blue) [LogExpert: Log-based Recommended Resolutions Generation using Large Language Model](https://dl.acm.org/doi/abs/10.1145/3639476.3639773)<br>
 Jiabo Wang, Guojun Chu, Jingyu Wang, Haifeng Sun, Qi Qi, **Yuanyi Wang**, Ji Qi, Jianxin Liao<br>
-*International Conference on Software Engineering*
+*IEEE/ACM International Conference on Software Engineering*
 - ![Static Badge](https://img.shields.io/badge/arXiv-red) [Understanding and Guiding Weakly Supervised Entity Alignment with Potential Isomorphism Propagation](https://arxiv.org/pdf/2402.03025) |  [**Code**](https://github.com/wyy-code/PipEA)<br>
 **Yuanyi Wang**, Wei Tang, Haifeng Sun, et al<br>
 ArXiv preprint 
