@@ -91,7 +91,7 @@ ArXiv preprint
 - *2024.10* Outstanding Postgraduate (Top 5%)
 - *2022.09* Outstanding Graduate of Beijing (Top 5%)
 - *2021.12* Star of Youth Studies (10 students in BUPT each year)
-- *2019.09 ~ 2021.09* National Encouragement Scholarship, Three times (Top 5%)
+- *2019.09 ~ 2021.09* National Encouragement Scholarship, Three times (Top 3%)
 
 # 📖 Educations
 - *2022.09 - 2025.06 (expect)*, Postgraduate, State Key Laboratory of Networking and Switching Technology, BUPT, Beijing. 
