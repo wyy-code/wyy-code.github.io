@@ -86,6 +86,8 @@ Jiabo Wang, Guojun Chu, Jingyu Wang, Haifeng Sun, Qi Qi, **Yuanyi Wang**, Ji Qi,
 
 
 # 🎖 Honors and Awards
+- *2025.06* Outstanding Thesis Award (Top 1%)
+- *2025.06* Outstanding Postgraduate of Beijing (Top 1%)
 - *2024.11* National Scholarship (Top 1%)
 - *2024.10* Outstanding Postgraduate (Top 5%)
 - *2022.09* Outstanding Graduate of Beijing (Top 5%)
@@ -93,7 +95,7 @@ Jiabo Wang, Guojun Chu, Jingyu Wang, Haifeng Sun, Qi Qi, **Yuanyi Wang**, Ji Qi,
 - *2019.09 ~ 2021.09* National Encouragement Scholarship, Three times (Top 3%)
 
 # 📖 Educations
-- *2022.09 - 2025.06 (expect)*, Postgraduate, State Key Laboratory of Networking and Switching Technology, BUPT, Beijing. 
+- *2022.09 - 2025.06*, Postgraduate, State Key Laboratory of Networking and Switching Technology, BUPT, Beijing. 
 - *2018.09 - 2022.06*, Undergraduate, Beijing University of Posts and Telecommunications (BUPT), Beijing.
 - *2015.09 - 2018.06*, Xi'an Tie Yi High School, Shaanxi.
 
