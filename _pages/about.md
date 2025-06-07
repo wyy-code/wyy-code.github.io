@@ -26,7 +26,7 @@ I have published more than 100 papers at the top international AI conferences wi
 -->
 
 # 🔥 News
-- **Looking for a PhD position!**
+- **I will join Prof. Hongxia Yang's group at the Hong Kong Polytechnic University (PolyU) as a PhD candidate in September 2025.**
 - *2024.05*: &nbsp;🎉🎉 Our paper about "Multi-modal Entity Alignment" was selected as Best Paper Candidate in ICMR 2024.
 
 
