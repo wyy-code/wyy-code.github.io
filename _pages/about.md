@@ -117,3 +117,6 @@ The Wechat official account of the Graduate College for Engineers, BUPT, with mo
 The Wechat official account of the Student Affairs Office, BUPT, with more than 2,000 visits
 - [《榜样在身边·“校十佳青学之星”获得者——王源毅》](https://mp.weixin.qq.com/s/JG6i1HwPSD--Xgmn9vrOgQ)<br>
 The Wechat official account of the College of Science, BUPT
+
+# 🏃 Hobbies
+I used to be a member of BUPT’s varsity team and once *ranked 5th* in the amateur division for hammer throw (链球北京高校非专业组第五) in Beijing. Beyond that, I enjoy playing basketball, table tennis, badminton, and muscle building — in fact, I’m passionate about almost all kinds of sports. These activities not only help me stay healthy and energized, but also bring me a sense of freedom that comes from pushing physical limits and embracing the joy of movement.
