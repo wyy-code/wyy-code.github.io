@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuanyi Wang"
-description              : "Looking for PhD position. Intrested in Knowledge Graph, Multi-modal, and LLM."
+description              : "PhD candidate in PolyU. Intrested in LLM Distillation, Knowledge Graph"
 repository               : "wyy-code/wyy-code.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuanyi Wang"
   avatar           : "images/single_photo.jpg"
-  bio              : "Beijing University of Posts and Telecommunications"
-  location         : "Beijing, China"
+  bio              : "The Hong Kong Polytechnic University (PolyU)"
+  location         : "Hong Kong"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=kmbs6HIAAAAJ&hl"
-  email            : "wangyuanyi@bupt.edu.cn"
+  email            : "wangyuanyi713@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
