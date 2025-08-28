@@ -17,17 +17,25 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 👋 Hi there~
+
+I’m a PhD student at The Hong Kong Polytechnic University (PolyU), advised by [Prof. Hongxia Yang](https://www4.comp.polyu.edu.hk/~hongxyang/). 
+
+My research focuses on **Model Fusion**—combining multiple trained models from different domains, architectures, or datasets into a single, stronger model to aggregate complementary knowledge and improve performance, generalization, and efficiency. Broadly, I’m interested in LLMs, multimodal learning, and knowledge graphs.
+
 I graduated with my B.S. from the College of Science, Beijing University of Posts and Telecommunications (BUPT). Then I was recommended to the State Key Laboratory of Networking and Switching Technology at BUPT, where I am completing my M.S. in Prof. [Jianxin Liao](https://baike.baidu.com/item/%E5%BB%96%E5%BB%BA%E6%96%B0/8469604)'s group. I was honored to work closely with Prof. Haifeng Sun (BUPT), Prof. Jingyu Wang (BUPT), Dr. Wei Tang (Huawei), and Dr. Yulong Cai (Huawei).
 
-My research interests include Knowledge Graphs, Multi-modal Learning, and LLM. 
+
 
 <!--
 I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
 
 # 🔥 News
-- **I will join Prof. Hongxia Yang's group at the Hong Kong Polytechnic University (PolyU) as a PhD candidate in September 2025.**
-- *2024.05*: &nbsp;🎉🎉 Our paper about "Multi-modal Entity Alignment" was selected as Best Paper Candidate in ICMR 2024.
+- **Now I join Prof. Hongxia Yang's group at the Hong Kong Polytechnic University (PolyU) as a PhD candidate.**
+- *2025.08*: &nbsp;🎉🎉 Our model InfiGFusion-14B has been released on Huggingface and get 3k stars!
+- *2025.06*: Our paper about "Weakly Supervised Entity Alignment" was accepted by TKDD.
+- Our paper about "Multi-modal Entity Alignment" was selected as Best Paper Candidate in ICMR 2024.
 
 
 # 📝 Publications 
@@ -46,9 +54,9 @@ I have published more than 100 papers at the top international AI conferences wi
 </div>
 -->
 
-- ![Static Badge](https://img.shields.io/badge/arXiv-red) [InfiGFusion: Graph-on-Logits Distillation via Efficient Gromov-Wasserstein for Model Fusion](https://arxiv.org/pdf/2505.13893) <br>
+- ![Static Badge](https://img.shields.io/badge/arXiv-red) [InfiGFusion: Graph-on-Logits Distillation via Efficient Gromov-Wasserstein for Model Fusion](https://arxiv.org/pdf/2505.13893) | [**Model**](https://huggingface.co/InfiX-ai/InfiGFusion-14B) <br>
 **Yuanyi Wang**, Zhaoyi Yan, Yiming Zhang, Qi Zhou, Yanggan Gu, Fei Wu, Hongxia Yang
-- ![Static Badge](https://img.shields.io/badge/arXiv-red) [InfiFPO: Implicit Model Fusion via Preference Optimization in Large Language Models](https://arxiv.org/pdf/2505.13878) <br>
+- ![Static Badge](https://img.shields.io/badge/arXiv-red) [InfiFPO: Implicit Model Fusion via Preference Optimization in Large Language Models](https://arxiv.org/pdf/2505.13878) | [**Model**](https://huggingface.co/InfiX-ai/InfiFPO-14B) <br>
 Yanggan Gu, Zhaoyi Yan, **Yuanyi Wang**, Yiming Zhang, Qi Zhou, Fei Wu, Hongxia Yang 
 - ![Static Badge](https://img.shields.io/badge/NAACL%202025-blue) [Rethinking Smoothness for Fast and Adaptable Entity Alignment Decoding](https://arxiv.org/pdf/2401.12798) | [**Code**](https://github.com/wyy-code/TFP) <br>
 **Yuanyi Wang**, Han Li, Haifeng Sun, Lei Zhang, Bo He, Wei Tang, Tianhao Yan, Qi Qi, Jingyu Wang
