@@ -69,7 +69,7 @@ Yanggan Gu, Zhaoyi Yan, **Yuanyi Wang**, Yiming Zhang, Qi Zhou, Fei Wu, Hongxia 
 Wei Tang, **Yuanyi Wang**
 - ![Static Badge](https://img.shields.io/badge/ICSE%202024-blue) [LogExpert: Log-based Recommended Resolutions Generation using Large Language Model](https://dl.acm.org/doi/abs/10.1145/3639476.3639773)<br>
 Jiabo Wang, Guojun Chu, Jingyu Wang, Haifeng Sun, Qi Qi, **Yuanyi Wang**, Ji Qi, Jianxin Liao
-- ![Static Badge](https://img.shields.io/badge/TKDD%202024-blue) [Understanding and Guiding Weakly Supervised Entity Alignment with Potential Isomorphism Propagation](https://arxiv.org/pdf/2402.03025) |  [**Code**](https://github.com/wyy-code/PipEA)<br>
+- ![Static Badge](https://img.shields.io/badge/TKDD%20-blue) [Understanding and Guiding Weakly Supervised Entity Alignment with Potential Isomorphism Propagation](https://arxiv.org/pdf/2402.03025) |  [**Code**](https://github.com/wyy-code/PipEA)<br>
 **Yuanyi Wang**, Wei Tang, Haifeng Sun, et al
 
 
@@ -114,6 +114,7 @@ Jiabo Wang, Guojun Chu, Jingyu Wang, Haifeng Sun, Qi Qi, **Yuanyi Wang**, Ji Qi,
 
 
 # 💻 Internships
+- *2025.3 - 2025.8*, InfiX-ai, Guangdong, China.
 - *2023.11 - 2025.1*, Huawei, 2012 Lab, Guangdong, China.
 
 # 📟 Reports
