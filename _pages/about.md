@@ -33,7 +33,7 @@ I have published more than 100 papers at the top international AI conferences wi
 
 # 🔥 News
 - **Now I join Prof. Hongxia Yang's group at the Hong Kong Polytechnic University (PolyU) as a PhD candidate.**
-- *2025.08*: &nbsp;🎉🎉 Our model InfiGFusion-14B has been released on Huggingface and get 3k stars!
+- *2025.08*: &nbsp;🎉🎉 Our model InfiGFusion-14B has been released on Huggingface and get 2k stars!
 - *2025.06*: Our paper about "Weakly Supervised Entity Alignment" was accepted by TKDD.
 - Our paper about "Multi-modal Entity Alignment" was selected as Best Paper Candidate in ICMR 2024.
 
@@ -91,6 +91,10 @@ Jiabo Wang, Guojun Chu, Jingyu Wang, Haifeng Sun, Qi Qi, **Yuanyi Wang**, Ji Qi,
 - **Objective:** Fast anomaly detection for multivariate time series data, Automatically analyzing oscillogram
 - **Solution:** A novel framework for multivariate time series anomaly detection, Lightweight object segmentation, detection, and indicator analysis for oscillogram
 -->
+
+# 🔬 Academic Service
+- Conference: Reviewer for the WWW, ACL
+- Journal: Reviewer for the SoftwareX, IEEE TNNLS
 
 
 # 🎖 Honors and Awards
