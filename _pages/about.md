@@ -52,11 +52,12 @@ I have published more than 100 papers at the top international AI conferences wi
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
+[Static Badge](https://img.shields.io/badge/arXiv-red)
 -->
 
-- ![Static Badge](https://img.shields.io/badge/arXiv-red) [InfiGFusion: Graph-on-Logits Distillation via Efficient Gromov-Wasserstein for Model Fusion](https://arxiv.org/pdf/2505.13893) | [**Model**](https://huggingface.co/InfiX-ai/InfiGFusion-14B) <br>
+- ![Static Badge](https://img.shields.io/badge/NeurIPS%202025-blue) [InfiGFusion: Graph-on-Logits Distillation via Efficient Gromov-Wasserstein for Model Fusion](https://arxiv.org/pdf/2505.13893) | [**Model**](https://huggingface.co/InfiX-ai/InfiGFusion-14B) <br>
 **Yuanyi Wang**, Zhaoyi Yan, Yiming Zhang, Qi Zhou, Yanggan Gu, Fei Wu, Hongxia Yang
-- ![Static Badge](https://img.shields.io/badge/arXiv-red) [InfiFPO: Implicit Model Fusion via Preference Optimization in Large Language Models](https://arxiv.org/pdf/2505.13878) | [**Model**](https://huggingface.co/InfiX-ai/InfiFPO-14B) <br>
+- ![Static Badge](https://img.shields.io/badge/NeurIPS%202025-blue) [InfiFPO: Implicit Model Fusion via Preference Optimization in Large Language Models](https://arxiv.org/pdf/2505.13878) | [**Model**](https://huggingface.co/InfiX-ai/InfiFPO-14B) <br>
 Yanggan Gu, Zhaoyi Yan, **Yuanyi Wang**, Yiming Zhang, Qi Zhou, Fei Wu, Hongxia Yang 
 - ![Static Badge](https://img.shields.io/badge/NAACL%202025-blue) [Rethinking Smoothness for Fast and Adaptable Entity Alignment Decoding](https://arxiv.org/pdf/2401.12798) | [**Code**](https://github.com/wyy-code/TFP) <br>
 **Yuanyi Wang**, Han Li, Haifeng Sun, Lei Zhang, Bo He, Wei Tang, Tianhao Yan, Qi Qi, Jingyu Wang
