@@ -23,7 +23,10 @@ I’m a PhD student at The Hong Kong Polytechnic University (PolyU), advised by 
 
 My research focuses on **Model Fusion**—combining multiple trained models from different domains, architectures, or datasets into a single, stronger model to aggregate complementary knowledge and improve performance, generalization, and efficiency. Broadly, I’m interested in LLMs, multimodal learning, and knowledge graphs.
 
-I graduated with my B.S. from the College of Science, Beijing University of Posts and Telecommunications (BUPT). Then I was recommended to the State Key Laboratory of Networking and Switching Technology at BUPT, where I am completing my M.S. in Prof. [Jianxin Liao](https://baike.baidu.com/item/%E5%BB%96%E5%BB%BA%E6%96%B0/8469604)'s group. I was honored to work closely with Prof. Haifeng Sun (BUPT), Prof. Jingyu Wang (BUPT), Dr. Wei Tang (Huawei), and Dr. Yulong Cai (Huawei).
+I graduated with my B.S. from the College of Science, Beijing University of Posts and Telecommunications (BUPT). Then I was recommended to the State Key Laboratory of Networking and Switching Technology at BUPT.
+<!--
+, where I am completing my M.S. in Prof. [Jianxin Liao](https://baike.baidu.com/item/%E5%BB%96%E5%BB%BA%E6%96%B0/8469604)'s group. I was honored to work closely with Prof. Haifeng Sun (BUPT), Prof. Jingyu Wang (BUPT), Dr. Wei Tang (Huawei), and Dr. Yulong Cai (Huawei).
+-->
 
 Welcome to visit our website at [InfiX-AI](https://infix-ai.com/) and workspace at [Huggingface](https://huggingface.co/InfiX-ai).
 
@@ -56,6 +59,8 @@ I have published more than 100 papers at the top international AI conferences wi
 [Static Badge](https://img.shields.io/badge/arXiv-red)
 -->
 
+- ![Static Badge](https://img.shields.io/badge/Nexus%202025-blue) [Democratizing AI Through Model Fusion: A Comprehensive Review and Future Directions](https://www.cell.com/nexus/pdf/S2950-1601(25)00049-X.pdf) |  <br>
+Qi Zhou, Yiming Zhang, Yanggan Gu, **Yuanyi Wang**, Zhijie Sang, Zhaoyi Yan, Zhen Li, Shengyu Zhang, Fei Wu, Hongxia Yang
 - ![Static Badge](https://img.shields.io/badge/arXiv-red) [Model Merging Scaling Laws in Large Language Models](https://arxiv.org/pdf/2509.24244) | [**Repo**](https://arxiv.org/pdf/2509.24244)  <br>
 **Yuanyi Wang**, Yanggan Gu, Yiming Zhang, Qi Zhou, Zhaoyi Yan, Congkai Xie, Xinyao Wang, Jianbo Yuan, Hongxia Yang
 - ![Static Badge](https://img.shields.io/badge/NeurIPS%202025-blue) [InfiGFusion: Graph-on-Logits Distillation via Efficient Gromov-Wasserstein for Model Fusion](https://arxiv.org/pdf/2505.13893) | [**Model**](https://huggingface.co/InfiX-ai/InfiGFusion-14B) <br>
@@ -123,7 +128,9 @@ Jiabo Wang, Guojun Chu, Jingyu Wang, Haifeng Sun, Qi Qi, **Yuanyi Wang**, Ji Qi,
 
 # 💻 Internships
 - *2025.3 - 2025.8*, InfiX-ai, Guangdong, China.
+<!--
 - *2023.11 - 2025.1*, Huawei, 2012 Lab, Guangdong, China.
+-->
 
 # 📟 Reports
 - [《他们，是闪闪发光的北邮人！》](https://mp.weixin.qq.com/s/-HP2uHssKdjbumYHcZyEMA)<br>
