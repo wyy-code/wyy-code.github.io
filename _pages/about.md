@@ -66,7 +66,7 @@ Qi Zhou, Yiming Zhang, Yanggan Gu, **Yuanyi Wang**, Zhijie Sang, Zhaoyi Yan, Zhe
 - ![Static Badge](https://img.shields.io/badge/NeurIPS%202025-blue) [InfiGFusion: Graph-on-Logits Distillation via Efficient Gromov-Wasserstein for Model Fusion](https://arxiv.org/pdf/2505.13893) | [**Model**](https://huggingface.co/InfiX-ai/InfiGFusion-14B) <br>
 **Yuanyi Wang**, Zhaoyi Yan, Yiming Zhang, Qi Zhou, Yanggan Gu, Fei Wu, Hongxia Yang 
 - ![Static Badge](https://img.shields.io/badge/NeurIPS%202025-blue) [InfiFPO: Implicit Model Fusion via Preference Optimization in Large Language Models](https://arxiv.org/pdf/2505.13878) | [**Model**](https://huggingface.co/InfiX-ai/InfiFPO-14B) <br>
-Yanggan Gu, Zhaoyi Yan, **Yuanyi Wang**, Yiming Zhang, Qi Zhou, Fei Wu, Hongxia Yang 
+Yanggan Gu, **Yuanyi Wang**, Zhaoyi Yan, Yiming Zhang, Qi Zhou, Fei Wu, Hongxia Yang 
 - ![Static Badge](https://img.shields.io/badge/NAACL%202025-blue) [Rethinking Smoothness for Fast and Adaptable Entity Alignment Decoding](https://arxiv.org/pdf/2401.12798) | [**Code**](https://github.com/wyy-code/TFP) <br>
 **Yuanyi Wang**, Han Li, Haifeng Sun, Lei Zhang, Bo He, Wei Tang, Tianhao Yan, Qi Qi, Jingyu Wang
 - ![Static Badge](https://img.shields.io/badge/ICDE%202024-blue) [Towards semantic consistency: Dirichlet energy driven robust multi-modal entity alignment](https://arxiv.org/pdf/2401.17859) | [**Code**](https://github.com/wyy-code/DESAlign)<br>
@@ -102,7 +102,7 @@ Jiabo Wang, Guojun Chu, Jingyu Wang, Haifeng Sun, Qi Qi, **Yuanyi Wang**, Ji Qi,
 -->
 
 # 🔬 Academic Service
-- Conference: Reviewer for the WWW, ACL
+- Conference: Reviewer for the WWW, ACL, ICLR
 - Journal: Reviewer for the SoftwareX, IEEE TNNLS
 
 
@@ -122,19 +122,14 @@ Jiabo Wang, Guojun Chu, Jingyu Wang, Haifeng Sun, Qi Qi, **Yuanyi Wang**, Ji Qi,
 
 
 # 💬 Invited Talks
-<!--
 - *2024.11*, AI-assisted Waveform Anomaly Detection, Huawei internal talk, Shenzhen.
--->
-
 - *2024.10*, AI-assisted Automatic Testing Equipments, Graduate College for Engineers, BUPT
 
 
 # 💻 Internships
 - *2025.3 - 2025.8*, InfiX-ai, Guangdong, China.
-  
-<!--
 - *2023.11 - 2025.1*, Huawei, 2012 Lab, Guangdong, China.
--->
+
 
 # 📟 Reports
 - [《他们，是闪闪发光的北邮人！》](https://mp.weixin.qq.com/s/-HP2uHssKdjbumYHcZyEMA)<br>
