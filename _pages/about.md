@@ -143,4 +143,4 @@ The Wechat official account of the Student Affairs Office, BUPT, with more than 
 The Wechat official account of the College of Science, BUPT
 
 # 🏃 Hobbies
-I used to be a member of BUPT’s varsity team and once *ranked 5th* in the amateur division for hammer throw in Beijing (首都高校田径联赛乙组链球第五). Beyond that, I enjoy playing basketball, table tennis, badminton, and muscle building — in fact, I’m passionate about most kinds of sports. These activities not only help me stay healthy and energized, but also bring me a sense of freedom that comes from pushing physical limits and embracing the joy of movement.
+I used to be a member of BUPT’s varsity team and once *ranked 5th* in the amateur division for hammer throw in Beijing (北京省级乙组第五). Beyond that, I enjoy playing basketball, table tennis, badminton, and muscle building — in fact, I’m passionate about most kinds of sports. These activities not only help me stay healthy and energized, but also bring me a sense of freedom that comes from pushing physical limits and embracing the joy of movement.
