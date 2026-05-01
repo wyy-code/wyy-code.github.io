@@ -58,12 +58,12 @@ I have published more than 100 papers at the top international AI conferences wi
 </div>
 [Static Badge](https://img.shields.io/badge/arXiv-red)
 -->
+- ![Static Badge](https://img.shields.io/badge/ICML%202026-blue) [Model Merging Scaling Laws in Large Language Models](https://arxiv.org/pdf/2509.24244) | [**Repo**](https://arxiv.org/pdf/2509.24244)  <br>
+**Yuanyi Wang**, Yanggan Gu, Yiming Zhang, Qi Zhou, Zhaoyi Yan, Congkai Xie, Xinyao Wang, Jianbo Yuan, Hongxia Yang
 - ![Static Badge](https://img.shields.io/badge/arXiv-red) [MergePipe: A Budget-Aware Parameter Management System for Scalable LLM Merging](https://arxiv.org/pdf/2602.13273) | [**Code**](https://github.com/wyy-code/mergepipe) <br>
 **Yuanyi Wang**, Yanggan Gu, Zihao Wang, Kunxi Li, Yifan Yang, Zhaoyi Yan, Congkai Xie, Jianmin Wu, Hongxia Yang
 - ![Static Badge](https://img.shields.io/badge/Nexus%202025-blue) [Democratizing AI Through Model Fusion: A Comprehensive Review and Future Directions](https://www.cell.com/nexus/pdf/S2950-1601(25)00049-X.pdf) |  <br>
 Qi Zhou, Yiming Zhang, Yanggan Gu, **Yuanyi Wang**, Zhijie Sang, Zhaoyi Yan, Zhen Li, Shengyu Zhang, Fei Wu, Hongxia Yang
-- ![Static Badge](https://img.shields.io/badge/arXiv-red) [Model Merging Scaling Laws in Large Language Models](https://arxiv.org/pdf/2509.24244) | [**Repo**](https://arxiv.org/pdf/2509.24244)  <br>
-**Yuanyi Wang**, Yanggan Gu, Yiming Zhang, Qi Zhou, Zhaoyi Yan, Congkai Xie, Xinyao Wang, Jianbo Yuan, Hongxia Yang
 - ![Static Badge](https://img.shields.io/badge/NeurIPS%202025-blue) [InfiGFusion: Graph-on-Logits Distillation via Efficient Gromov-Wasserstein for Model Fusion](https://arxiv.org/pdf/2505.13893) | [**Model**](https://huggingface.co/InfiX-ai/InfiGFusion-14B) <br>
 **Yuanyi Wang**, Zhaoyi Yan, Yiming Zhang, Qi Zhou, Yanggan Gu, Fei Wu, Hongxia Yang 
 - ![Static Badge](https://img.shields.io/badge/NeurIPS%202025-blue) [InfiFPO: Implicit Model Fusion via Preference Optimization in Large Language Models](https://arxiv.org/pdf/2505.13878) | [**Model**](https://huggingface.co/InfiX-ai/InfiFPO-14B) <br>
