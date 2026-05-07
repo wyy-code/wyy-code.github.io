@@ -35,10 +35,9 @@ I have published more than 100 papers at the top international AI conferences wi
 -->
 
 # 🔥 News
-- **Now I join Prof. Hongxia Yang's group at the Hong Kong Polytechnic University (PolyU) as a PhD candidate.**
 - *2026.05*: &nbsp;🎉🎉 Our paper "LLM Merging Scaling Law" has been accepted by ICML 2026.
-- &nbsp;🎉🎉 Our two papers about *LLM Fusion* have been accepted by NeurIPS 2025.
-- &nbsp;🎉🎉 Our model InfiGFusion-14B has been released on Huggingface and get 4k stars!
+- &nbsp; Our two papers about *LLM Fusion* have been accepted by NeurIPS 2025.
+- &nbsp; Our model InfiGFusion-14B has been released on Huggingface and get 4k stars!
 - Our paper about "Multi-modal Entity Alignment" was selected as Best Paper Candidate in ICMR 2024.
 
 
