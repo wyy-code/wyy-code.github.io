@@ -36,9 +36,9 @@ I have published more than 100 papers at the top international AI conferences wi
 
 # 🔥 News
 - **Now I join Prof. Hongxia Yang's group at the Hong Kong Polytechnic University (PolyU) as a PhD candidate.**
-- *2025.09*: &nbsp;🎉🎉 Our two papers about *LLM Fusion* have been accepted by NeurIPS 2025.
-- *2025.08*: &nbsp;🎉🎉 Our model InfiGFusion-14B has been released on Huggingface and get 4k stars!
-- *2025.06*: Our paper about "Weakly Supervised Entity Alignment" was accepted by TKDD.
+- *2026.05*: &nbsp;🎉🎉 Our paper "LLM Merging Scaling Law" has been accepted by ICML 2026.
+- &nbsp;🎉🎉 Our two papers about *LLM Fusion* have been accepted by NeurIPS 2025.
+- &nbsp;🎉🎉 Our model InfiGFusion-14B has been released on Huggingface and get 4k stars!
 - Our paper about "Multi-modal Entity Alignment" was selected as Best Paper Candidate in ICMR 2024.
 
 
@@ -80,7 +80,7 @@ Wei Tang, **Yuanyi Wang**
 - ![Static Badge](https://img.shields.io/badge/ICSE%202024-blue) [LogExpert: Log-based Recommended Resolutions Generation using Large Language Model](https://dl.acm.org/doi/abs/10.1145/3639476.3639773)<br>
 Jiabo Wang, Guojun Chu, Jingyu Wang, Haifeng Sun, Qi Qi, **Yuanyi Wang**, Ji Qi, Jianxin Liao
 - ![Static Badge](https://img.shields.io/badge/ACM%20Transactions%20on%20Knowledge%20Discovery%20from%20Data-blue) [Understanding and Guiding Weakly Supervised Entity Alignment with Potential Isomorphism Propagation](https://arxiv.org/pdf/2402.03025) |  [**Code**](https://github.com/wyy-code/PipEA)<br>
-**Yuanyi Wang**, Wei Tang, Haifeng Sun, et al
+Haifeng Sun, **Yuanyi Wang**, Wei Tang, et al
 
 
 <!--
