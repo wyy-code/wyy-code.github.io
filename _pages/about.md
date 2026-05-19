@@ -57,7 +57,13 @@ I have published more than 100 papers at the top international AI conferences wi
 </div>
 [Static Badge](https://img.shields.io/badge/arXiv-red)
 -->
-- ![Static Badge](https://img.shields.io/badge/ICML%202026-blue) [Model Merging Scaling Laws in Large Language Models](https://arxiv.org/pdf/2509.24244) | [**Repo**](https://arxiv.org/pdf/2509.24244)  <br>
+- ![Static Badge](https://img.shields.io/badge/arXiv-red) [Geometry Conflict: Explaining and Controlling Forgetting in LLM Continual Post-Training](https://huggingface.co/papers/2605.09608) | [**Code**](https://github.com/wyy-code/GCWM)  <br>
+**Yuanyi Wang**, Yifan Yang,Su Lu,Yanggan Gu,Pengkai Wang,Wenjun Wang,Zhaoyi Yan,Congkai Xie,Jianmin Wu,Jialun Cao,Shing-Chi Cheung,Hongxia Yang
+- ![Static Badge](https://img.shields.io/badge/arXiv-red) [FeatCal: Feature Calibration for Post-Merging Models](https://huggingface.co/papers/2605.13030) | [**Code**](https://github.com/egangu/featcal)  <br>
+Yanggan Gu, Shuo Cai, Zihao Wang, Wenjun Wang, **Yuanyi Wang**, Pengkai Wang, Sirui Huang, Su Lu, Jianmin Wu, Hongxia Yang
+- ![Static Badge](https://img.shields.io/badge/arXiv-red) [Discovering Physical Directions in Weight Space: Composing Neural PDE Experts](https://arxiv.org/abs/2605.14546) | [**Repo**](https://arxiv.org/abs/2605.14546)  <br>
+Pengkai Wang, Pengwei Liu, **Yuanyi Wang** (Co-first Author), Guanyu Chen, Xingyu Ren, Xiaolong Li, Zhongkai Hao, Yuting Kong, Qixin Zhang, Dong Ni
+- ![Static Badge](https://img.shields.io/badge/ICML%202026-blue) [Model Merging Scaling Laws in Large Language Models](https://arxiv.org/pdf/2509.24244) | [**Repo**](https://github.com/InfiXAI/Merging-Scaling-Law)  <br>
 **Yuanyi Wang**, Yanggan Gu, Yiming Zhang, Qi Zhou, Zhaoyi Yan, Congkai Xie, Xinyao Wang, Jianbo Yuan, Hongxia Yang
 - ![Static Badge](https://img.shields.io/badge/arXiv-red) [MergePipe: A Budget-Aware Parameter Management System for Scalable LLM Merging](https://arxiv.org/pdf/2602.13273) | [**Code**](https://github.com/wyy-code/mergepipe) <br>
 **Yuanyi Wang**, Yanggan Gu, Zihao Wang, Kunxi Li, Yifan Yang, Zhaoyi Yan, Congkai Xie, Jianmin Wu, Hongxia Yang
