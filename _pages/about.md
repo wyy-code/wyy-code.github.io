@@ -126,6 +126,7 @@ Haifeng Sun, **Yuanyi Wang**, Wei Tang, et al
 - *2019.09 ~ 2021.09* National Encouragement Scholarship, Three times (Top 3%)
 
 # 📖 Educations
+- *2025.09 - Present*, PhD, The Hong Kong Polytechnic University (PolyU), Hong Kong
 - *2022.09 - 2025.06*, Postgraduate, State Key Laboratory of Networking and Switching Technology, BUPT, Beijing. 
 - *2018.09 - 2022.06*, Undergraduate, Beijing University of Posts and Telecommunications (BUPT), Beijing.
 - *2015.09 - 2018.06*, Xi'an Tie Yi High School, Shaanxi.
