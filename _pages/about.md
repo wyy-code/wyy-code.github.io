@@ -137,7 +137,7 @@ Haifeng Sun, **Yuanyi Wang**, Wei Tang, et al
 
 
 # 💻 Internships
-- *2025.3 - 2025.8*, InfiX-ai, Guangdong, China.
+- *2025.3 - Present*, InfiX-ai, Guangdong, China.
 - *2023.11 - 2025.1*, Huawei, 2012 Lab, Guangdong, China.
 
 
