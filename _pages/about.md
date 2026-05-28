@@ -57,10 +57,14 @@ I have published more than 100 papers at the top international AI conferences wi
 </div>
 [Static Badge](https://img.shields.io/badge/arXiv-red)
 -->
+- ![Static Badge](https://img.shields.io/badge/arXiv-red) [Not All Disagreement Is Learnable: Token Teachability in On-Policy Distillation](https://arxiv.org/abs/2605.26844) | [**Code**](https://github.com/wyy-code/TA-OPD)  <br>
+**Yuanyi Wang**, Su Lu, Yanggan Gu, Pengkai Wang, Yifan Yang, Zhaoyi Yan, Congkai Xie, Jianmin Wu, Hongxia Yang
 - ![Static Badge](https://img.shields.io/badge/arXiv-red) [Geometry Conflict: Explaining and Controlling Forgetting in LLM Continual Post-Training](https://huggingface.co/papers/2605.09608) | [**Code**](https://github.com/wyy-code/GCWM)  <br>
 **Yuanyi Wang**, Yifan Yang,Su Lu,Yanggan Gu,Pengkai Wang,Wenjun Wang,Zhaoyi Yan,Congkai Xie,Jianmin Wu,Jialun Cao,Shing-Chi Cheung,Hongxia Yang
 - ![Static Badge](https://img.shields.io/badge/arXiv-red) [FeatCal: Feature Calibration for Post-Merging Models](https://huggingface.co/papers/2605.13030) | [**Code**](https://github.com/egangu/featcal)  <br>
 Yanggan Gu, Shuo Cai, Zihao Wang, Wenjun Wang, **Yuanyi Wang**, Pengkai Wang, Sirui Huang, Su Lu, Jianmin Wu, Hongxia Yang
+- ![Static Badge](https://img.shields.io/badge/arXiv-red) [E-PMQ: Expert-Guided Post-Merge Quantization with Merged-Weight Anchoring](https://arxiv.org/abs/2605.16882) | [**Code**](https://github.com/wwjzhy/E-PMQ)  <br>
+Wenjun Wang, Yanggan Gu, Shuo Cai, **Yuanyi Wang**, Pengkai Wang, Jianmin Wu, Hongxia Yang
 - ![Static Badge](https://img.shields.io/badge/arXiv-red) [Discovering Physical Directions in Weight Space: Composing Neural PDE Experts](https://arxiv.org/abs/2605.14546) | [**Repo**](https://arxiv.org/abs/2605.14546)  <br>
 Pengkai Wang, Pengwei Liu, **Yuanyi Wang** (Co-first Author), Guanyu Chen, Xingyu Ren, Xiaolong Li, Zhongkai Hao, Yuting Kong, Qixin Zhang, Dong Ni
 - ![Static Badge](https://img.shields.io/badge/ICML%202026-blue) [Model Merging Scaling Laws in Large Language Models](https://arxiv.org/pdf/2509.24244) | [**Repo**](https://github.com/InfiXAI/Merging-Scaling-Law)  <br>
