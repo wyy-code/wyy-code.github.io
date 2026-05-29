@@ -69,7 +69,7 @@ Wenjun Wang, Yanggan Gu, Shuo Cai, **Yuanyi Wang**, Pengkai Wang, Jianmin Wu, Ho
 Pengkai Wang, Pengwei Liu, **Yuanyi Wang** (Co-first Author), Guanyu Chen, Xingyu Ren, Xiaolong Li, Zhongkai Hao, Yuting Kong, Qixin Zhang, Dong Ni
 - ![Static Badge](https://img.shields.io/badge/ICML%202026-blue) [Model Merging Scaling Laws in Large Language Models](https://arxiv.org/pdf/2509.24244) | [**Code**](https://github.com/InfiXAI/Merging-Scaling-Law) ｜ [**Repo**](https://huggingface.co/collections/InfiX-ai/scaling-law)  <br>
 **Yuanyi Wang**, Yanggan Gu, Yiming Zhang, Qi Zhou, Zhaoyi Yan, Congkai Xie, Xinyao Wang, Jianbo Yuan, Hongxia Yang
-- ![Static Badge](https://img.shields.io/badge/ICML%202026-blue) [Access Sets Matter: Budgeting Expert Reads for Scalable Weight-Space Model Merging](https://arxiv.org/abs/2605.29489) | [**Code**](https://github.com/wyy-code/mergepipe)  <br>
+- ![Static Badge](https://img.shields.io/badge/ICML%202026-Workshop%20-blue) [Access Sets Matter: Budgeting Expert Reads for Scalable Weight-Space Model Merging](https://arxiv.org/abs/2605.29489) | [**Code**](https://github.com/wyy-code/mergepipe)  <br>
 **Yuanyi Wang**, Yanggan Gu, Su Lu, Yifan Yang, Zhaoyi Yan, Congkai Xie, Jianmin Wu, Hongxia Yang
 - ![Static Badge](https://img.shields.io/badge/arXiv-red) [MergePipe: A Budget-Aware Parameter Management System for Scalable LLM Merging](https://arxiv.org/pdf/2602.13273) | [**Code**](https://github.com/wyy-code/mergepipe) <br>
 **Yuanyi Wang**, Yanggan Gu, Zihao Wang, Kunxi Li, Yifan Yang, Zhaoyi Yan, Congkai Xie, Jianmin Wu, Hongxia Yang
