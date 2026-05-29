@@ -114,7 +114,7 @@ Haifeng Sun, **Yuanyi Wang**, Wei Tang, et al
 -->
 
 # 🔬 Academic Service
-- Conference: Reviewer for the WWW, ACL, ICLR
+- Conference: Reviewer for the ICLR, NeurIPS, ICML, WWW, ACL
 - Journal: Reviewer for the SoftwareX, IEEE TNNLS
 
 
