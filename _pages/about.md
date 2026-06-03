@@ -536,10 +536,6 @@ I am also a research intern at [InfiX-AI](https://infix-ai.com/). Our models and
 - **Sep. 2018 – Jun. 2022** — B.S., Beijing University of Posts and Telecommunications, Beijing
 - **Sep. 2015 – Jun. 2018** — Xi'an Tie Yi High School, Shaanxi
 
-# 💬 Invited Talks
-
-- **Nov. 2024** — AI-assisted Waveform Anomaly Detection, Huawei internal talk, Shenzhen
-- **Oct. 2024** — AI-assisted Automatic Testing Equipment, Graduate College for Engineers, BUPT
 
 # 💻 Internships
 
