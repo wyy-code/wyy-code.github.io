@@ -57,6 +57,7 @@ I have published more than 100 papers at the top international AI conferences wi
 </div>
 [Static Badge](https://img.shields.io/badge/arXiv-red)
 -->
+## 2026
 - ![Static Badge](https://img.shields.io/badge/arXiv-red) [Not All Disagreement Is Learnable: Token Teachability in On-Policy Distillation](https://arxiv.org/abs/2605.26844) | [**Code**](https://github.com/wyy-code/TA-OPD)  <br>
 **Yuanyi Wang**, Su Lu, Yanggan Gu, Pengkai Wang, Yifan Yang, Zhaoyi Yan, Congkai Xie, Jianmin Wu, Hongxia Yang
 - ![Static Badge](https://img.shields.io/badge/arXiv-red) [Geometry Conflict: Explaining and Controlling Forgetting in LLM Continual Post-Training](https://huggingface.co/papers/2605.09608) | [**Code**](https://github.com/wyy-code/GCWM)  <br>
@@ -73,6 +74,7 @@ Pengkai Wang, Pengwei Liu, **Yuanyi Wang** (Co-first Author), Guanyu Chen, Xingy
 **Yuanyi Wang**, Yanggan Gu, Su Lu, Yifan Yang, Zhaoyi Yan, Congkai Xie, Jianmin Wu, Hongxia Yang
 - ![Static Badge](https://img.shields.io/badge/arXiv-red) [MergePipe: A Budget-Aware Parameter Management System for Scalable LLM Merging](https://arxiv.org/pdf/2602.13273) | [**Code**](https://github.com/wyy-code/mergepipe) <br>
 **Yuanyi Wang**, Yanggan Gu, Zihao Wang, Kunxi Li, Yifan Yang, Zhaoyi Yan, Congkai Xie, Jianmin Wu, Hongxia Yang
+## 2025
 - ![Static Badge](https://img.shields.io/badge/Nexus%202025-blue) [Democratizing AI Through Model Fusion: A Comprehensive Review and Future Directions](https://www.cell.com/nexus/pdf/S2950-1601(25)00049-X.pdf) |  <br>
 Qi Zhou, Yiming Zhang, Yanggan Gu, **Yuanyi Wang**, Zhijie Sang, Zhaoyi Yan, Zhen Li, Shengyu Zhang, Fei Wu, Hongxia Yang
 - ![Static Badge](https://img.shields.io/badge/NeurIPS%202025-blue) [InfiGFusion: Graph-on-Logits Distillation via Efficient Gromov-Wasserstein for Model Fusion](https://arxiv.org/pdf/2505.13893) | [**Model**](https://huggingface.co/InfiX-ai/InfiGFusion-14B) <br>
@@ -81,7 +83,7 @@ Qi Zhou, Yiming Zhang, Yanggan Gu, **Yuanyi Wang**, Zhijie Sang, Zhaoyi Yan, Zhe
 Yanggan Gu, **Yuanyi Wang**, Zhaoyi Yan, Yiming Zhang, Qi Zhou, Fei Wu, Hongxia Yang 
 - ![Static Badge](https://img.shields.io/badge/NAACL%202025-blue) [Rethinking Smoothness for Fast and Adaptable Entity Alignment Decoding](https://arxiv.org/pdf/2401.12798) | [**Code**](https://github.com/wyy-code/TFP) <br>
 **Yuanyi Wang**, Han Li, Haifeng Sun, Lei Zhang, Bo He, Wei Tang, Tianhao Yan, Qi Qi, Jingyu Wang
-**2024**
+## 2024
 - ![Static Badge](https://img.shields.io/badge/ICDE%202024-blue) [Towards semantic consistency: Dirichlet energy driven robust multi-modal entity alignment](https://arxiv.org/pdf/2401.17859) | [**Code**](https://github.com/wyy-code/DESAlign)<br>
 **Yuanyi Wang**, Haifeng Sun, Jiabo Wang, Jingyu Wang, Wei Tang, Qi Qi, Shaoling Sun, Jianxin Liao 
 - ![Static Badge](https://img.shields.io/badge/ICDM%202024-blue) [Interdependency Matters: Graph Alignment for Multivariate Time Series Anomaly Detection](https://arxiv.org/pdf/2410.08877) | [**Code**](https://github.com/wyy-code/MADGA)<br>
