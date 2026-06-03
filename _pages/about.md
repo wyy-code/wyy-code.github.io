@@ -83,6 +83,8 @@ Qi Zhou, Yiming Zhang, Yanggan Gu, **Yuanyi Wang**, Zhijie Sang, Zhaoyi Yan, Zhe
 Yanggan Gu, **Yuanyi Wang**, Zhaoyi Yan, Yiming Zhang, Qi Zhou, Fei Wu, Hongxia Yang 
 - ![Static Badge](https://img.shields.io/badge/NAACL%202025-blue) [Rethinking Smoothness for Fast and Adaptable Entity Alignment Decoding](https://arxiv.org/pdf/2401.12798) | [**Code**](https://github.com/wyy-code/TFP) <br>
 **Yuanyi Wang**, Han Li, Haifeng Sun, Lei Zhang, Bo He, Wei Tang, Tianhao Yan, Qi Qi, Jingyu Wang
+- ![Static Badge](https://img.shields.io/badge/ACM%20Transactions%20on%20Knowledge%20Discovery%20from%20Data-blue) [Understanding and Guiding Weakly Supervised Entity Alignment with Potential Isomorphism Propagation](https://arxiv.org/pdf/2402.03025) |  [**Code**](https://github.com/wyy-code/PipEA)<br>
+Haifeng Sun, **Yuanyi Wang**, Wei Tang, et al
 ## 2024
 - ![Static Badge](https://img.shields.io/badge/ICDE%202024-blue) [Towards semantic consistency: Dirichlet energy driven robust multi-modal entity alignment](https://arxiv.org/pdf/2401.17859) | [**Code**](https://github.com/wyy-code/DESAlign)<br>
 **Yuanyi Wang**, Haifeng Sun, Jiabo Wang, Jingyu Wang, Wei Tang, Qi Qi, Shaoling Sun, Jianxin Liao 
@@ -92,8 +94,7 @@ Yanggan Gu, **Yuanyi Wang**, Zhaoyi Yan, Yiming Zhang, Qi Zhou, Fei Wu, Hongxia 
 Wei Tang, **Yuanyi Wang**
 - ![Static Badge](https://img.shields.io/badge/ICSE%202024-blue) [LogExpert: Log-based Recommended Resolutions Generation using Large Language Model](https://dl.acm.org/doi/abs/10.1145/3639476.3639773)<br>
 Jiabo Wang, Guojun Chu, Jingyu Wang, Haifeng Sun, Qi Qi, **Yuanyi Wang**, Ji Qi, Jianxin Liao
-- ![Static Badge](https://img.shields.io/badge/ACM%20Transactions%20on%20Knowledge%20Discovery%20from%20Data-blue) [Understanding and Guiding Weakly Supervised Entity Alignment with Potential Isomorphism Propagation](https://arxiv.org/pdf/2402.03025) |  [**Code**](https://github.com/wyy-code/PipEA)<br>
-Haifeng Sun, **Yuanyi Wang**, Wei Tang, et al
+
 
 
 <!--
