@@ -83,7 +83,7 @@ Qi Zhou, Yiming Zhang, Yanggan Gu, **Yuanyi Wang**, Zhijie Sang, Zhaoyi Yan, Zhe
 Yanggan Gu, **Yuanyi Wang**, Zhaoyi Yan, Yiming Zhang, Qi Zhou, Fei Wu, Hongxia Yang 
 - ![Static Badge](https://img.shields.io/badge/NAACL%202025-blue) [Rethinking Smoothness for Fast and Adaptable Entity Alignment Decoding](https://arxiv.org/pdf/2401.12798) | [**Code**](https://github.com/wyy-code/TFP) <br>
 **Yuanyi Wang**, Han Li, Haifeng Sun, Lei Zhang, Bo He, Wei Tang, Tianhao Yan, Qi Qi, Jingyu Wang
-- ![Static Badge](https://img.shields.io/badge/ACM%20Transactions%20on%20Knowledge%20Discovery%20from%20Data-blue) [Understanding and Guiding Weakly Supervised Entity Alignment with Potential Isomorphism Propagation](https://arxiv.org/pdf/2402.03025) |  [**Code**](https://github.com/wyy-code/PipEA)<br>
+- ![Static Badge](https://img.shields.io/badge/ACM%20TKDD-blue) [Understanding and Guiding Weakly Supervised Entity Alignment with Potential Isomorphism Propagation](https://arxiv.org/pdf/2402.03025) |  [**Code**](https://github.com/wyy-code/PipEA)<br>
 Haifeng Sun, **Yuanyi Wang**, Wei Tang, et al
 ## 2024
 - ![Static Badge](https://img.shields.io/badge/ICDE%202024-blue) [Towards semantic consistency: Dirichlet energy driven robust multi-modal entity alignment](https://arxiv.org/pdf/2401.17859) | [**Code**](https://github.com/wyy-code/DESAlign)<br>
