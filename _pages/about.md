@@ -542,6 +542,7 @@ I am also a research intern at [InfiX-AI](https://infix-ai.com/). Our models and
 - **Mar. 2025 – Present** — InfiX-AI, Guangdong, China
 - **Nov. 2023 – Jan. 2025** — Huawei 2012 Lab, Guangdong, China
 
+<--
 # 📟 Media & Reports
 
 - [《他们，是闪闪发光的北邮人！》](https://mp.weixin.qq.com/s/-HP2uHssKdjbumYHcZyEMA)  
@@ -552,6 +553,7 @@ I am also a research intern at [InfiX-AI](https://infix-ai.com/). Our models and
   Official WeChat account of the Student Affairs Office, BUPT, with 2,000+ visits.
 - [《榜样在身边·“校十佳青学之星”获得者——王源毅》](https://mp.weixin.qq.com/s/JG6i1HwPSD--Xgmn9vrOgQ)  
   Official WeChat account of the College of Science, BUPT.
+-->
 
 # 🏃 Outside Research
 
