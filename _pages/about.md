@@ -235,7 +235,6 @@ I am also a research intern at [InfiX-AI](https://infix-ai.com/). Our models and
 <div class="pub-card featured">
   <div class="pub-topline">
     <span class="pub-venue">ICML 2026</span>
-    <span class="pub-badge highlight">Representative</span>
   </div>
   <div class="pub-title-row">
     <a class="pub-title" href="https://arxiv.org/pdf/2509.24244">Model Merging Scaling Laws in Large Language Models</a>
@@ -269,7 +268,6 @@ I am also a research intern at [InfiX-AI](https://infix-ai.com/). Our models and
 <div class="pub-card featured">
   <div class="pub-topline">
     <span class="pub-venue preprint">arXiv</span>
-    <span class="pub-badge highlight">Representative</span>
   </div>
   <div class="pub-title-row">
     <a class="pub-title" href="https://arxiv.org/abs/2605.26844">Not All Disagreement Is Learnable: Token Teachability in On-Policy Distillation</a>
@@ -286,7 +284,6 @@ I am also a research intern at [InfiX-AI](https://infix-ai.com/). Our models and
 <div class="pub-card featured">
   <div class="pub-topline">
     <span class="pub-venue preprint">arXiv</span>
-    <span class="pub-badge highlight">Representative</span>
   </div>
   <div class="pub-title-row">
     <a class="pub-title" href="https://huggingface.co/papers/2605.09608">Geometry Conflict: Explaining and Controlling Forgetting in LLM Continual Post-Training</a>
@@ -369,7 +366,6 @@ I am also a research intern at [InfiX-AI](https://infix-ai.com/). Our models and
 <div class="pub-card featured">
   <div class="pub-topline">
     <span class="pub-venue">NeurIPS 2025</span>
-    <span class="pub-badge highlight">Representative</span>
   </div>
   <div class="pub-title-row">
     <a class="pub-title" href="https://arxiv.org/pdf/2505.13893">InfiGFusion: Graph-on-Logits Distillation via Efficient Gromov-Wasserstein for Model Fusion</a>
@@ -402,7 +398,6 @@ I am also a research intern at [InfiX-AI](https://infix-ai.com/). Our models and
 <div class="pub-card featured">
   <div class="pub-topline">
     <span class="pub-venue">NAACL 2025</span>
-    <span class="pub-badge highlight">Representative</span>
   </div>
   <div class="pub-title-row">
     <a class="pub-title" href="https://arxiv.org/pdf/2401.12798">Rethinking Smoothness for Fast and Adaptable Entity Alignment Decoding</a>
@@ -452,7 +447,6 @@ I am also a research intern at [InfiX-AI](https://infix-ai.com/). Our models and
 <div class="pub-card featured">
   <div class="pub-topline">
     <span class="pub-venue">ICDE 2024</span>
-    <span class="pub-badge highlight">Representative</span>
   </div>
   <div class="pub-title-row">
     <a class="pub-title" href="https://arxiv.org/pdf/2401.17859">Towards Semantic Consistency: Dirichlet Energy Driven Robust Multi-Modal Entity Alignment</a>
