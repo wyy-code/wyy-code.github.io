@@ -534,9 +534,8 @@ I am also a research intern at [InfiX-AI](https://infix-ai.com/). Our models and
 # 💻 Internships
 
 - **Mar. 2025 – Present** — InfiX-AI, Guangdong, China
-<!--
 - **Nov. 2023 – Jan. 2025** — Huawei 2012 Lab, Guangdong, China
--->
+
 <!--
 # 📟 Media & Reports
 
