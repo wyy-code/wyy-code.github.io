@@ -21,9 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : |
-              Yuanyi Wang
-              (王源毅)
+  name             : "Yuanyi Wang<br>(王源毅)"
   avatar           : "images/single_photo.jpg"
   bio              : "The Hong Kong Polytechnic University (PolyU)"
   location         : "Hong Kong"
