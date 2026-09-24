@@ -267,6 +267,38 @@ I am also a research intern at [InfiX-AI](https://infix-ai.com/). Our models and
   </div>
 </div>
 
+<div class="pub-card featured">
+  <div class="pub-topline">
+    <span class="pub-venue">NeurIPS 2026</span>
+  </div>
+  <div class="pub-title-row">
+    <a class="pub-title" href="https://huggingface.co/papers/2605.09608">Geometry Conflict: Explaining and Controlling Forgetting in LLM Continual Post-Training</a>
+  </div>
+  <div class="pub-authors">
+    <strong>Yuanyi Wang</strong>, Yifan Yang, Su Lu, Yanggan Gu, Pengkai Wang, Wenjun Wang, Zhaoyi Yan, Congkai Xie, Jianmin Wu, Jialun Cao, Shing-Chi Cheung, Hongxia Yang
+  </div>
+  <div class="pub-links">
+    <a href="https://huggingface.co/papers/2605.09608">Paper</a>
+    <a href="https://github.com/wyy-code/GCWM">Code</a>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-topline">
+    <span class="pub-venue">NeurIPS 2026</span>
+  </div>
+  <div class="pub-title-row">
+    <a class="pub-title" href="https://huggingface.co/papers/2605.13030">FeatCal: Feature Calibration for Post-Merging Models</a>
+  </div>
+  <div class="pub-authors">
+    Yanggan Gu, Shuo Cai, Zihao Wang, Wenjun Wang, <strong>Yuanyi Wang</strong>, Pengkai Wang, Sirui Huang, Su Lu, Jianmin Wu, Hongxia Yang
+  </div>
+  <div class="pub-links">
+    <a href="https://huggingface.co/papers/2605.13030">Paper</a>
+    <a href="https://github.com/egangu/featcal">Code</a>
+  </div>
+</div>
+
 <div class="pub-card">
   <div class="pub-topline">
     <span class="pub-venue preprint">arXiv</span>
@@ -280,22 +312,6 @@ I am also a research intern at [InfiX-AI](https://infix-ai.com/). Our models and
   <div class="pub-links">
     <a href="https://arxiv.org/pdf/2602.13273">Paper</a>
     <a href="https://github.com/wyy-code/mergepipe">Code</a>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-topline">
-    <span class="pub-venue preprint">arXiv</span>
-  </div>
-  <div class="pub-title-row">
-    <a class="pub-title" href="https://huggingface.co/papers/2605.13030">FeatCal: Feature Calibration for Post-Merging Models</a>
-  </div>
-  <div class="pub-authors">
-    Yanggan Gu, Shuo Cai, Zihao Wang, Wenjun Wang, <strong>Yuanyi Wang</strong>, Pengkai Wang, Sirui Huang, Su Lu, Jianmin Wu, Hongxia Yang
-  </div>
-  <div class="pub-links">
-    <a href="https://huggingface.co/papers/2605.13030">Paper</a>
-    <a href="https://github.com/egangu/featcal">Code</a>
   </div>
 </div>
 
@@ -381,20 +397,6 @@ I am also a research intern at [InfiX-AI](https://infix-ai.com/). Our models and
   </div>
 </div>
 
-<div class="pub-card">
-  <div class="pub-topline">
-    <span class="pub-venue">Nexus 2025</span>
-  </div>
-  <div class="pub-title-row">
-    <a class="pub-title" href="https://www.cell.com/nexus/pdf/S2950-1601(25)00049-X.pdf">Democratizing AI Through Model Fusion: A Comprehensive Review and Future Directions</a>
-  </div>
-  <div class="pub-authors">
-    Qi Zhou, Yiming Zhang, Yanggan Gu, <strong>Yuanyi Wang</strong>, Zhijie Sang, Zhaoyi Yan, Zhen Li, Shengyu Zhang, Fei Wu, Hongxia Yang
-  </div>
-  <div class="pub-links">
-    <a href="https://www.cell.com/nexus/pdf/S2950-1601(25)00049-X.pdf">Paper</a>
-  </div>
-</div>
 
 <h2 id="pub-Alignment" class="pub-year">Alignment</h2>
 
@@ -481,22 +483,6 @@ I am also a research intern at [InfiX-AI](https://infix-ai.com/). Our models and
 
 <h2 id="pub-Others" class="pub-year">Others</h2>
 
-<div class="pub-card featured">
-  <div class="pub-topline">
-    <span class="pub-venue preprint">arXiv</span>
-  </div>
-  <div class="pub-title-row">
-    <a class="pub-title" href="https://huggingface.co/papers/2605.09608">Geometry Conflict: Explaining and Controlling Forgetting in LLM Continual Post-Training</a>
-  </div>
-  <div class="pub-authors">
-    <strong>Yuanyi Wang</strong>, Yifan Yang, Su Lu, Yanggan Gu, Pengkai Wang, Wenjun Wang, Zhaoyi Yan, Congkai Xie, Jianmin Wu, Jialun Cao, Shing-Chi Cheung, Hongxia Yang
-  </div>
-  <div class="pub-links">
-    <a href="https://huggingface.co/papers/2605.09608">Paper</a>
-    <a href="https://github.com/wyy-code/GCWM">Code</a>
-  </div>
-</div>
-
 <div class="pub-card">
   <div class="pub-topline">
     <span class="pub-venue">ICSE 2024</span>
@@ -509,6 +495,21 @@ I am also a research intern at [InfiX-AI](https://infix-ai.com/). Our models and
   </div>
   <div class="pub-links">
     <a href="https://dl.acm.org/doi/abs/10.1145/3639476.3639773">Paper</a>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-topline">
+    <span class="pub-venue">Nexus 2025</span>
+  </div>
+  <div class="pub-title-row">
+    <a class="pub-title" href="https://www.cell.com/nexus/pdf/S2950-1601(25)00049-X.pdf">Democratizing AI Through Model Fusion: A Comprehensive Review and Future Directions</a>
+  </div>
+  <div class="pub-authors">
+    Qi Zhou, Yiming Zhang, Yanggan Gu, <strong>Yuanyi Wang</strong>, Zhijie Sang, Zhaoyi Yan, Zhen Li, Shengyu Zhang, Fei Wu, Hongxia Yang
+  </div>
+  <div class="pub-links">
+    <a href="https://www.cell.com/nexus/pdf/S2950-1601(25)00049-X.pdf">Paper</a>
   </div>
 </div>
 
