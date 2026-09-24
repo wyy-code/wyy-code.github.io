@@ -222,15 +222,15 @@ I am also a research intern at [InfiX-AI](https://infix-ai.com/). Our models and
 </style>
 
 <div class="pub-nav">
-  <span>Years</span>
-  <a href="#pub-2026">2026</a>
+  <span>Tracks</span>
+  <a href="#pub-Merging">Merging</a>
   <span>·</span>
-  <a href="#pub-2025">2025</a>
+  <a href="#pub-Fusion&Distillation">Fusion&Distillation</a>
   <span>·</span>
-  <a href="#pub-2024">2024</a>
+  <a href="#pub-Alignment">Alignment</a>
 </div>
 
-<h2 id="pub-2026" class="pub-year">2026</h2>
+<h2 id="pub-Merging" class="pub-year">Merging</h2>
 
 <div class="pub-card featured">
   <div class="pub-topline">
@@ -361,7 +361,7 @@ I am also a research intern at [InfiX-AI](https://infix-ai.com/). Our models and
   </div>
 </div>
 
-<h2 id="pub-2025" class="pub-year">2025</h2>
+<h2 id="pub-Fusion&Distillation" class="pub-year">Fusion&Distillation</h2>
 
 <div class="pub-card featured">
   <div class="pub-topline">
@@ -442,7 +442,7 @@ I am also a research intern at [InfiX-AI](https://infix-ai.com/). Our models and
   </div>
 </div>
 
-<h2 id="pub-2024" class="pub-year">2024</h2>
+<h2 id="pub-Alignment" class="pub-year">Alignment</h2>
 
 <div class="pub-card featured">
   <div class="pub-topline">
