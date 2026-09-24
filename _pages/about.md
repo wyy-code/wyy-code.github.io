@@ -228,6 +228,8 @@ I am also a research intern at [InfiX-AI](https://infix-ai.com/). Our models and
   <a href="#pub-Fusion&Distillation">Fusion&Distillation</a>
   <span>·</span>
   <a href="#pub-Alignment">Alignment</a>
+  <span>·</span>
+  <a href="#pub-Others">Others</a>
 </div>
 
 <h2 id="pub-Merging" class="pub-year">Merging</h2>
@@ -262,38 +264,6 @@ I am also a research intern at [InfiX-AI](https://infix-ai.com/). Our models and
   <div class="pub-links">
     <a href="https://arxiv.org/abs/2605.29489">Paper</a>
     <a href="https://github.com/wyy-code/mergepipe">Code</a>
-  </div>
-</div>
-
-<div class="pub-card featured">
-  <div class="pub-topline">
-    <span class="pub-venue preprint">arXiv</span>
-  </div>
-  <div class="pub-title-row">
-    <a class="pub-title" href="https://arxiv.org/abs/2605.26844">Not All Disagreement Is Learnable: Token Teachability in On-Policy Distillation</a>
-  </div>
-  <div class="pub-authors">
-    <strong>Yuanyi Wang</strong>, Su Lu, Yanggan Gu, Pengkai Wang, Yifan Yang, Zhaoyi Yan, Congkai Xie, Jianmin Wu, Hongxia Yang
-  </div>
-  <div class="pub-links">
-    <a href="https://arxiv.org/abs/2605.26844">Paper</a>
-    <a href="https://github.com/wyy-code/TA-OPD">Code</a>
-  </div>
-</div>
-
-<div class="pub-card featured">
-  <div class="pub-topline">
-    <span class="pub-venue preprint">arXiv</span>
-  </div>
-  <div class="pub-title-row">
-    <a class="pub-title" href="https://huggingface.co/papers/2605.09608">Geometry Conflict: Explaining and Controlling Forgetting in LLM Continual Post-Training</a>
-  </div>
-  <div class="pub-authors">
-    <strong>Yuanyi Wang</strong>, Yifan Yang, Su Lu, Yanggan Gu, Pengkai Wang, Wenjun Wang, Zhaoyi Yan, Congkai Xie, Jianmin Wu, Jialun Cao, Shing-Chi Cheung, Hongxia Yang
-  </div>
-  <div class="pub-links">
-    <a href="https://huggingface.co/papers/2605.09608">Paper</a>
-    <a href="https://github.com/wyy-code/GCWM">Code</a>
   </div>
 </div>
 
@@ -365,6 +335,22 @@ I am also a research intern at [InfiX-AI](https://infix-ai.com/). Our models and
 
 <div class="pub-card featured">
   <div class="pub-topline">
+    <span class="pub-venue preprint">arXiv</span>
+  </div>
+  <div class="pub-title-row">
+    <a class="pub-title" href="https://arxiv.org/abs/2605.26844">Not All Disagreement Is Learnable: Token Teachability in On-Policy Distillation</a>
+  </div>
+  <div class="pub-authors">
+    <strong>Yuanyi Wang</strong>, Su Lu, Yanggan Gu, Pengkai Wang, Yifan Yang, Zhaoyi Yan, Congkai Xie, Jianmin Wu, Hongxia Yang
+  </div>
+  <div class="pub-links">
+    <a href="https://arxiv.org/abs/2605.26844">Paper</a>
+    <a href="https://github.com/wyy-code/TA-OPD">Code</a>
+  </div>
+</div>
+
+<div class="pub-card featured">
+  <div class="pub-topline">
     <span class="pub-venue">NeurIPS 2025</span>
   </div>
   <div class="pub-title-row">
@@ -395,6 +381,23 @@ I am also a research intern at [InfiX-AI](https://infix-ai.com/). Our models and
   </div>
 </div>
 
+<div class="pub-card">
+  <div class="pub-topline">
+    <span class="pub-venue">Nexus 2025</span>
+  </div>
+  <div class="pub-title-row">
+    <a class="pub-title" href="https://www.cell.com/nexus/pdf/S2950-1601(25)00049-X.pdf">Democratizing AI Through Model Fusion: A Comprehensive Review and Future Directions</a>
+  </div>
+  <div class="pub-authors">
+    Qi Zhou, Yiming Zhang, Yanggan Gu, <strong>Yuanyi Wang</strong>, Zhijie Sang, Zhaoyi Yan, Zhen Li, Shengyu Zhang, Fei Wu, Hongxia Yang
+  </div>
+  <div class="pub-links">
+    <a href="https://www.cell.com/nexus/pdf/S2950-1601(25)00049-X.pdf">Paper</a>
+  </div>
+</div>
+
+<h2 id="pub-Alignment" class="pub-year">Alignment</h2>
+
 <div class="pub-card featured">
   <div class="pub-topline">
     <span class="pub-venue">NAACL 2025</span>
@@ -413,21 +416,6 @@ I am also a research intern at [InfiX-AI](https://infix-ai.com/). Our models and
 
 <div class="pub-card">
   <div class="pub-topline">
-    <span class="pub-venue">Nexus 2025</span>
-  </div>
-  <div class="pub-title-row">
-    <a class="pub-title" href="https://www.cell.com/nexus/pdf/S2950-1601(25)00049-X.pdf">Democratizing AI Through Model Fusion: A Comprehensive Review and Future Directions</a>
-  </div>
-  <div class="pub-authors">
-    Qi Zhou, Yiming Zhang, Yanggan Gu, <strong>Yuanyi Wang</strong>, Zhijie Sang, Zhaoyi Yan, Zhen Li, Shengyu Zhang, Fei Wu, Hongxia Yang
-  </div>
-  <div class="pub-links">
-    <a href="https://www.cell.com/nexus/pdf/S2950-1601(25)00049-X.pdf">Paper</a>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-topline">
     <span class="pub-venue">TKDD</span>
   </div>
   <div class="pub-title-row">
@@ -441,8 +429,6 @@ I am also a research intern at [InfiX-AI](https://infix-ai.com/). Our models and
     <a href="https://github.com/wyy-code/PipEA">Code</a>
   </div>
 </div>
-
-<h2 id="pub-Alignment" class="pub-year">Alignment</h2>
 
 <div class="pub-card featured">
   <div class="pub-topline">
@@ -490,6 +476,24 @@ I am also a research intern at [InfiX-AI](https://infix-ai.com/). Our models and
   <div class="pub-links">
     <a href="https://dl.acm.org/doi/10.1145/3652583.3658085">Paper</a>
     <a href="https://github.com/OceanTangWei/PMMEA">Code</a>
+  </div>
+</div>
+
+<h2 id="pub-Others" class="pub-year">Others</h2>
+
+<div class="pub-card featured">
+  <div class="pub-topline">
+    <span class="pub-venue preprint">arXiv</span>
+  </div>
+  <div class="pub-title-row">
+    <a class="pub-title" href="https://huggingface.co/papers/2605.09608">Geometry Conflict: Explaining and Controlling Forgetting in LLM Continual Post-Training</a>
+  </div>
+  <div class="pub-authors">
+    <strong>Yuanyi Wang</strong>, Yifan Yang, Su Lu, Yanggan Gu, Pengkai Wang, Wenjun Wang, Zhaoyi Yan, Congkai Xie, Jianmin Wu, Jialun Cao, Shing-Chi Cheung, Hongxia Yang
+  </div>
+  <div class="pub-links">
+    <a href="https://huggingface.co/papers/2605.09608">Paper</a>
+    <a href="https://github.com/wyy-code/GCWM">Code</a>
   </div>
 </div>
 
