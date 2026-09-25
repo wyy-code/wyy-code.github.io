@@ -22,6 +22,7 @@ I am also a research intern at [InfiX-AI](https://infix-ai.com/). Our models and
 
 # 🔥 News
 
+- **Sep 2026** — Three papers were accepted to NeurIPS 2026.
 - **May 2026** — Our paper *Model Merging Scaling Laws in Large Language Models* was accepted to ICML 2026.
 - **2025** — Two papers on LLM fusion were accepted to NeurIPS 2025.
 - **2025** — Our model InfiGFusion-14B was released on Hugging Face and received 4K+ stars.
