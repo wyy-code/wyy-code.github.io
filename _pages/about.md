@@ -300,17 +300,6 @@ I am also a research intern at [InfiX-AI](https://infix-ai.com/). Our models and
   </div>
 </div>
 
-<div class="pub-card">
-  <div class="pub-topline">
-    <span class="pub-venue">NeurIPS 2026</span>
-  </div>
-  <div class="pub-title-row">
-    <a class="pub-title">NPCBench: A Clinical Apprenticeship Benchmark for Guideline-Constrained Care-Pathway Reasoning in Nasopharyngeal Carcinoma</a>
-  </div>
-  <div class="pub-authors">
-    Pengkai Wang, Wei-Wei Zhang, Yan Li, Min Tang, Zhitian Hou, Zeyu Liu, Guanghao Zhu, <strong>Yuanyi Wang</strong>, Yanggan Gu, Wenjun Wang, Minheng Ni, Congkai Xie, Zhijie Sang, Jianmin Wu, Ying Sun, Hongxia Yang 
-  </div>
-</div>
 
 <div class="pub-card">
   <div class="pub-topline">
@@ -495,6 +484,18 @@ I am also a research intern at [InfiX-AI](https://infix-ai.com/). Our models and
 </div>
 
 <h2 id="pub-Others" class="pub-year">Others</h2>
+
+<div class="pub-card">
+  <div class="pub-topline">
+    <span class="pub-venue">NeurIPS 2026</span>
+  </div>
+  <div class="pub-title-row">
+    <a class="pub-title">NPCBench: A Clinical Apprenticeship Benchmark for Guideline-Constrained Care-Pathway Reasoning in Nasopharyngeal Carcinoma</a>
+  </div>
+  <div class="pub-authors">
+    Pengkai Wang, Wei-Wei Zhang, Yan Li, Min Tang, Zhitian Hou, Zeyu Liu, Guanghao Zhu, <strong>Yuanyi Wang</strong>, Yanggan Gu, Wenjun Wang, Minheng Ni, Congkai Xie, Zhijie Sang, Jianmin Wu, Ying Sun, Hongxia Yang 
+  </div>
+</div>
 
 <div class="pub-card">
   <div class="pub-topline">
