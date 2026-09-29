@@ -375,7 +375,7 @@ I am also a research intern at [InfiX-AI](https://infix-ai.com/), focusing on lo
     <a class="pub-title" href="https://www.preprints.org/frontend/manuscript/412c5de33e20b4c7364a754d6fcab767/download_pub">From Parameters to Behaviors: A Survey of Model Fusion for Large Language Models</a>
   </div>
   <div class="pub-authors">
-    Shuo Cai, Yanggan Gu, Zihao Wang, Yuanyi Wang, Yibo Yan, Wenjun Wang, Yuhang Liu, Guanghao Zhu, Sirui Huang, Ming Li, Hongxia Yang
+    Shuo Cai, Yanggan Gu, Zihao Wang, <strong>Yuanyi Wang</strong>, Yibo Yan, Wenjun Wang, Yuhang Liu, Guanghao Zhu, Sirui Huang, Ming Li, Hongxia Yang
   </div>
   <div class="pub-links">
     <a href="https://www.preprints.org/frontend/manuscript/412c5de33e20b4c7364a754d6fcab767/download_pub">Paper</a>
