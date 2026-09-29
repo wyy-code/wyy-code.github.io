@@ -367,6 +367,36 @@ I am also a research intern at [InfiX-AI](https://infix-ai.com/), focusing on lo
   </div>
 </div>
 
+<div class="pub-card">
+  <div class="pub-topline">
+    <span class="pub-venue">EMNLP 2026</span>
+  </div>
+  <div class="pub-title-row">
+    <a class="pub-title" href="https://www.preprints.org/frontend/manuscript/412c5de33e20b4c7364a754d6fcab767/download_pub">From Parameters to Behaviors: A Survey of Model Fusion for Large Language Models</a>
+  </div>
+  <div class="pub-authors">
+    Shuo Cai, Yanggan Gu, Zihao Wang, Yuanyi Wang, Yibo Yan, Wenjun Wang, Yuhang Liu, Guanghao Zhu, Sirui Huang, Ming Li, Hongxia Yang
+  </div>
+  <div class="pub-links">
+    <a href="https://www.preprints.org/frontend/manuscript/412c5de33e20b4c7364a754d6fcab767/download_pub">Paper</a>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-topline">
+    <span class="pub-venue">Nexus 2025</span>
+  </div>
+  <div class="pub-title-row">
+    <a class="pub-title" href="https://www.cell.com/nexus/pdf/S2950-1601(25)00049-X.pdf">Democratizing AI Through Model Fusion: A Comprehensive Review and Future Directions</a>
+  </div>
+  <div class="pub-authors">
+    Qi Zhou, Yiming Zhang, Yanggan Gu, <strong>Yuanyi Wang</strong>, Zhijie Sang, Zhaoyi Yan, Zhen Li, Shengyu Zhang, Fei Wu, Hongxia Yang
+  </div>
+  <div class="pub-links">
+    <a href="https://www.cell.com/nexus/pdf/S2950-1601(25)00049-X.pdf">Paper</a>
+  </div>
+</div>
+
 <div class="pub-card featured">
   <div class="pub-topline">
     <span class="pub-venue">NeurIPS 2025</span>
@@ -396,6 +426,21 @@ I am also a research intern at [InfiX-AI](https://infix-ai.com/), focusing on lo
   <div class="pub-links">
     <a href="https://arxiv.org/pdf/2505.13878">Paper</a>
     <a href="https://huggingface.co/InfiX-ai/InfiFPO-14B">Model</a>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-topline">
+    <span class="pub-venue">Nexus 2025</span>
+  </div>
+  <div class="pub-title-row">
+    <a class="pub-title" href="https://www.cell.com/nexus/pdf/S2950-1601(25)00049-X.pdf">Democratizing AI Through Model Fusion: A Comprehensive Review and Future Directions</a>
+  </div>
+  <div class="pub-authors">
+    Qi Zhou, Yiming Zhang, Yanggan Gu, <strong>Yuanyi Wang</strong>, Zhijie Sang, Zhaoyi Yan, Zhen Li, Shengyu Zhang, Fei Wu, Hongxia Yang
+  </div>
+  <div class="pub-links">
+    <a href="https://www.cell.com/nexus/pdf/S2950-1601(25)00049-X.pdf">Paper</a>
   </div>
 </div>
 
@@ -512,20 +557,6 @@ I am also a research intern at [InfiX-AI](https://infix-ai.com/), focusing on lo
   </div>
 </div>
 
-<div class="pub-card">
-  <div class="pub-topline">
-    <span class="pub-venue">Nexus 2025</span>
-  </div>
-  <div class="pub-title-row">
-    <a class="pub-title" href="https://www.cell.com/nexus/pdf/S2950-1601(25)00049-X.pdf">Democratizing AI Through Model Fusion: A Comprehensive Review and Future Directions</a>
-  </div>
-  <div class="pub-authors">
-    Qi Zhou, Yiming Zhang, Yanggan Gu, <strong>Yuanyi Wang</strong>, Zhijie Sang, Zhaoyi Yan, Zhen Li, Shengyu Zhang, Fei Wu, Hongxia Yang
-  </div>
-  <div class="pub-links">
-    <a href="https://www.cell.com/nexus/pdf/S2950-1601(25)00049-X.pdf">Paper</a>
-  </div>
-</div>
 
 # 🔬 Academic Service
 
