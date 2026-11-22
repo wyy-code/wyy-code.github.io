@@ -230,7 +230,7 @@ I am also a research intern at [InfiX-AI](https://infix-ai.com/), focusing on lo
   <span>·</span>
   <a href="#pub-Alignment">Alignment</a>
   <span>·</span>
-  <a href="#pub-Others">Others</a>
+  <a href="#pub-Agents">Agents</a>
 </div>
 
 <h2 id="pub-Merging" class="pub-year">Merging</h2>
@@ -528,7 +528,7 @@ I am also a research intern at [InfiX-AI](https://infix-ai.com/), focusing on lo
   </div>
 </div>
 
-<h2 id="pub-Others" class="pub-year">Others</h2>
+<h2 id="pub-Agents" class="pub-year">Agents</h2>
 
 <div class="pub-card">
   <div class="pub-topline">
