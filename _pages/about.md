@@ -18,7 +18,7 @@ My research centers on **model fusion**: combining trained models from different
 
 Before joining PolyU, I received my B.S. from the College of Science at Beijing University of Posts and Telecommunications (BUPT), and was recommended for postgraduate study at the State Key Laboratory of Networking and Switching Technology, BUPT.
 
-I am also a research intern at [InfiX-AI](https://infix-ai.com/), focusing on long-horizon post-training and coding agent.
+I am also a research intern at [InfiX-AI](https://infix-ai.com/), leading the long-horizon post-training of coding agents, with a focus on complex long-horizon and challenging software engineering tasks.
 
 # 🔥 News
 
